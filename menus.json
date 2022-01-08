@@ -1,0 +1,99 @@
+{
+  "topbar": [
+    {
+      "label": "HOME",
+      "url": "/"
+    },
+    {
+      "label": "Sample Processing",
+      "url": "/SampleProcessing",
+      "children": [
+        {
+          "label": "How to Send Samples",
+          "url": "/SampleProcessing/HowToSendSamples"
+        },
+        {
+          "label": "Quotes",
+          "url": "/Quotes"
+        },
+        {
+          "label": "Online Sample Submission",
+          "url": "https://submission.namc.usu.edu/",
+          "newWindow": true
+        },
+        {
+          "label": "Quality Standards",
+          "url": "/SampleProcessing/QualityStandards"
+        },
+        {
+          "label": "Laboratory Procedures",
+          "url": "/SampleProcessing/LaboratoryProcedures"
+        },
+        {
+          "label": "Results and Reports",
+          "url": "/SampleProcessing/ResultsAndReports"
+        },
+        {
+          "label": "Field Forms (Archive)",
+          "url": "/MonitoringResources/FieldForms"
+        }
+      ]
+    },
+    {
+      "label": "Monitoring Resources",
+      "url": "MonitoringResources",
+      "children": [
+        {
+          "label": "Monitoring Introduction",
+          "url": "/MonitoringResources/MonitoringIntroduction"
+        },
+        {
+          "label": "Monitoring Protocols",
+          "url": "/MonitoringResources/MonitoringProtocols"
+        },
+        {
+          "label": "Field Forms (Archive)",
+          "url": "/MonitoringResources/FieldForms"
+        }
+      ]
+    },
+    {
+      "label": "Projects",
+      "url": "Projects",
+      "children": [
+        {
+          "label": "Current Projects",
+          "url": "/Projects/CurrentProjects"
+        },
+        {
+          "label": "Archived Projects",
+          "url": "/Projects/ArchivedProjects"
+        },
+        {
+          "label": "Publicity",
+          "url": "/Projects/Publicity"
+        },
+        {
+          "label": "Publications & Reports",
+          "url": "/Projects/PublicationsReports"
+        }
+      ]
+    },
+    {
+      "label": "Photos",
+      "url": "/Photos"
+    },
+    {
+      "label": "Meet the Staff",
+      "url": "/MeetTheStaff"
+    },
+    {
+      "label": "Links",
+      "url": "/Links"
+    },
+    {
+      "label": "Contact Us",
+      "url": "/ContactUs"
+    }
+  ]
+}

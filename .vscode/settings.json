@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    {
+        "fileMatch": [
+            "/menus.json"
+        ],
+        "url": "./menuSchema.json"
+    }
+]
+
+}

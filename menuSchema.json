@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "schema": {
+      "type": "string"
+    },
+    "topbar": {
+      "$ref": "#/$defs/menu"
+    }
+  },
+  "$defs": {
+    "menu": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/menuItem"
+      }
+    },
+    "menuItem": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "newWindow": {
+          "type": "boolean"
+        },
+        "children": {
+          "$ref": "#/$defs/menu"
+        }
+      },
+      "required": [
+        "label",
+        "url"
+      ],
+      "additionalProperties": false
+    }
+  },  
+  "additionalProperties": false
+}
