@@ -1,6 +1,6 @@
 ---
 title: Links
-slug: "/Links"
+slug: "Links"
 ---
 
 # Hydrology

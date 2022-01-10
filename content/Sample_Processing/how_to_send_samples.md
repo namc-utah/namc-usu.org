@@ -1,6 +1,6 @@
 ---
 title: How to Send Samples
-slug: "/SampleProcessing/HowToSendSamples"
+slug: "SampleProcessing/HowToSendSamples"
 ---
 
 1. Fix samples with 95% ethanol in the field.

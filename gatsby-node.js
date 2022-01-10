@@ -1,36 +1,19 @@
-require('source-map-support').install()
-require('ts-node').register({
-    compilerOptions: {
-        module: 'commonjs',
-        target: 'es2017'
-    }
-})
-// const createFilePath = require(`gatsby-source-filesystem`).createFilePath
-// exports.onCreateNode = ({ node, getNode, actions }) => {
-//     const { createNodeField } = actions
-//     if (node.internal.type === `MarkdownRemark`) {
-//         const slug = createFilePath({ node, getNode, basePath: `pages` })
-//         createNodeField({
-//             node,
-//             name: `slug`,
-//             value: slug
-//         })
-//     }
-// }
-
+/**
+ * A note about typescript:
+ * It is technically possible to convert this to typescript but the debugging becomes much more complicated
+ * so a decision was made not to pursue this.
+ */
 exports.createPages = ({ actions, graphql }) => {
     const { createPage } = actions
 
-    const blogPostTemplate = require.resolve(`./src/templates/PageTemplate`)
+    const pageTemplate = require.resolve(`./src/templates/PageTemplate`)
 
     return graphql(`
         {
-            allMarkdownRemark {
-                edges {
-                    node {
-                        frontmatter {
-                            slug
-                        }
+            pages: allMarkdownRemark {
+                nodes {
+                    fields {
+                        slug
                     }
                 }
             }
@@ -39,14 +22,16 @@ exports.createPages = ({ actions, graphql }) => {
         if (result.errors) {
             return Promise.reject(result.errors)
         }
-
-        return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+        const pages = result.data.pages.nodes
+        pages.forEach((page) => {
+            const slug = page.fields.slug
+            const deIndexedSlug = slug.replace(/(.*)index/, '$1')
             createPage({
-                path: node.frontmatter.slug,
-                component: blogPostTemplate,
+                path: deIndexedSlug,
+                component: pageTemplate,
                 context: {
-                    // additional data can be passed via context
-                    slug: node.frontmatter.slug
+                    deIndexedSlug,
+                    slug
                 }
             })
         })

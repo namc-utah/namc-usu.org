@@ -1,4 +1,4 @@
 ---
 title: Sample Processing
-slug: "/SampleProcessing"
+slug: "SampleProcessing"
 ---

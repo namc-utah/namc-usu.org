@@ -1,6 +1,6 @@
 ---
 title: NAMC Aquatic Macroinvertibrate Sampling Protocol
-slug: "/Protocols/namc"
+slug: "Protocols/namc"
 ---
 
 Last updated: 5 Oct 2015

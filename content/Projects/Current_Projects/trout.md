@@ -1,6 +1,6 @@
 ---
 title: Responses of macroinvertebrate drift, benthic assemblages and trout foraging to hydropeaking
-slug: "/Projects/Project6"
+slug: "Projects/Project6"
 ---
 
 # Collaborators

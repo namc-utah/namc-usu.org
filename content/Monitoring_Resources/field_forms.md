@@ -1,6 +1,6 @@
 ---
 title: Field Forms
-slug: "/FieldForms"
+slug: "FieldForms"
 ---
 
 We encourage the collection of basic site and sample information while on location, including site coordinates and sample area which are required for sample submission. These forms are often requested by customers and are provided to support field data collection but are not a reflection of comprehensive data required for sample analysis. Depending on study design, we suggest collecting relevant habitat variables such as substrate and water chemistry. However, we do not require or utilize physical habitat assessments as outlined in these forms and are pending major revisions to our suggested habitat protocols for BLM sites.

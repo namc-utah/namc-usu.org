@@ -1,6 +1,6 @@
 ---
 title: Western Lake Survey Protocol
-slug: "/Protocols/wlsp"
+slug: "Protocols/wlsp"
 ---
 
 1. Determine and record site location information: lake name, latitude, longitude, elevation, sampling date and time, and personnel collecting data.

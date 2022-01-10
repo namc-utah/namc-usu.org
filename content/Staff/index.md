@@ -1,6 +1,6 @@
 ---
 title: Staff
-slug: "/Staff"
+slug: "Staff"
 ---
 
 # Director

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-slug: "/ContactUs"
+slug: "ContactUs"
 ---
 
 ## BugLab Contact Information

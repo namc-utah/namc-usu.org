@@ -1,6 +1,6 @@
 ---
 title: Publicity
-slug: "/Projects/Publicity"
+slug: "Projects/Publicity"
 ---
 
 # General

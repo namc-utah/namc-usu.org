@@ -1,6 +1,5 @@
 ---
 title: NAMC
-slug: "/"
 ---
 
 ## Our Mission

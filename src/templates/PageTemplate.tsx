@@ -12,11 +12,11 @@ export interface TemplateProps {
 const Template: React.FC<TemplateProps> = ({
     data // this prop will be injected by the GraphQL query below.
 }: TemplateProps) => {
-    const { markdownRemark } = data // data.markdownRemark holds your post data
-    const { frontmatter, html } = markdownRemark
+    const { page } = data // data.markdownRemark holds your post data
+    const { fields, html, frontmatter } = page
     const content = html2material(html)
 
-    if (frontmatter.slug === '/') return <Home>{content}</Home>
+    if (fields.slug === '/index') return <Home>{content}</Home>
     return (
         <Page>
             <>
@@ -29,10 +29,12 @@ const Template: React.FC<TemplateProps> = ({
 
 export const pageQuery = graphql`
     query ($slug: String!) {
-        markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+        page: markdownRemark(fields: { slug: { eq: $slug } }) {
             html
-            frontmatter {
+            fields {
                 slug
+            }
+            frontmatter {
                 title
             }
         }

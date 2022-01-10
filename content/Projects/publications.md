@@ -1,6 +1,6 @@
 ---
 title: Publications And Reports
-slug: "/Projects/PublicationsReports"
+slug: "Projects/PublicationsReports"
 ---
 
 * Irvine, K.M., S.W. Miller, R. K. Al-Chokhachy, E.K. Archer, J.L. Kershner, and B. B. Roper.  In Prep. Evaluating Ecosystem Conceptual Models across Large Heterogeneous Landscapes.  To be submitted to Ecological Applications 

@@ -1,6 +1,6 @@
 ---
 title: Lab Methods
-slug: "/LabMethods"
+slug: "LabMethods"
 ---
 
 # Sorting

@@ -1,6 +1,6 @@
 ---
 title: BLM Western Rivers and Stream Assessments
-slug: "/Projects/Project2"
+slug: "Projects/Project2"
 ---
 
 # Collaborators

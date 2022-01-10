@@ -1,6 +1,6 @@
 ---
 title: Quotes
-slug: "/Quotes"
+slug: "Quotes"
 
 ---
 
