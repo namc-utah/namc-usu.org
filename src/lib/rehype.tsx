@@ -5,6 +5,9 @@ import rehypeReact from 'rehype-react'
 import rehypeParse from 'rehype-parse'
 import { unified } from 'unified'
 
+/**
+ * This maps the parsed HTML we generated from the original Markdown to react components we control
+ */
 export const html2material = (text: string) =>
     unified()
         .use(rehypeParse, { fragment: true })

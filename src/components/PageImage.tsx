@@ -18,6 +18,9 @@ const profile: SxProps<Theme> = {
     maxWidth: 200
 }
 
+/**
+ * Take a look at lib/rehype.tsx for how this gets used
+ */
 const PageImage: React.FC<PageImageProps> = ({ className, src, ...props }: PageImageProps) => {
     console.log('PageImageProps', { className, props })
     const newSrc = src.indexOf('http') === 0 ? src : withPrefix(src)

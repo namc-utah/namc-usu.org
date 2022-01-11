@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import AppBar from '@mui/material/AppBar'
-import CameraIcon from '@mui/icons-material/PhotoCamera'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
 import Menu from '@mui/material/Menu'
@@ -12,7 +11,6 @@ import { MenuItem as MenuItemType } from '../types'
 import MenuJSON from '../../menus.json'
 import { Box } from '@mui/material'
 import { withPrefix } from 'gatsby'
-import log from 'loglevel'
 
 const menus = MenuJSON as Record<string, MenuItemType[]>
 

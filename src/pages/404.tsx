@@ -5,16 +5,11 @@ import Page from '../components/Page'
 // markup
 const NotFoundPage: React.FC = () => {
     return (
-        <Page>
+        <Page title="Not found">
             <>
-                <Typography variant="h1">Not found</Typography>
                 <Typography variant="h2">Page not found</Typography>
                 <Typography paragraph>
-                    Sorry{' '}
-                    <span role="img" aria-label="Pensive emoji">
-                        😔
-                    </span>{' '}
-                    we couldn’t find what you were looking for.
+                    Sorry we couldn’t find what you were looking for.
                     <br />
                     {process.env.NODE_ENV === 'development' ? (
                         <>

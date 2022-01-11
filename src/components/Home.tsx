@@ -14,7 +14,7 @@ const Home: React.FC<HomeProps> = ({ children }: HomeProps) => {
     return (
         <PageWrapper>
             <>
-                {/* Hero unit */}
+                {/* Hero unit: DISABLED UNTIL WE DECIDE WHAT TO DO WITH IT */}
                 {/* <Box
                     sx={{
                         bgcolor: 'background.paper',

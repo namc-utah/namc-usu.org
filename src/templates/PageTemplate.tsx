@@ -23,6 +23,10 @@ const Template: React.FC<TemplateProps> = ({
 }: TemplateProps) => {
     const { page } = data // data.markdownRemark holds your post data
     const { fields, html, frontmatter } = page
+    /**
+     * NOTICE THIS!!!!!
+     * Here's where the raw HTML gets mapped to react components
+     */
     const content = html2material(html)
 
     if (fields.slug === '/index') return <Home>{content}</Home>
