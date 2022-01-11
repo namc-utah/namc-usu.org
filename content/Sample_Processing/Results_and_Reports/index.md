@@ -3,15 +3,15 @@ title: Results and Reports
 slug: "SampleProcessing/ResultsAndReports"
 ---
 
-# Example Report
+## Example Report
 
-[Example Excel Report]({{ site.baseurl}}/assets/docs/Woodcamp_OTUstandardizedMetrics.xls)
+[Example Excel Report](/docs/Woodcamp_OTUstandardizedMetrics.xls)
 
-# Report Metadata
+## Report Metadata
 
-[Report Metadata]({{site.baseurl}}//assets/docs/Metadata_accompanyingPDF2.pdf)
+[Report Metadata](/docs/Metadata_accompanyingPDF2.pdf)
 
-# Data Owneership Policy
+## Data Owneership Policy
 
 Our policy on data ownership is that unless you tell us in writing that the data generated from our field or laboratory work are proprietary we will make these data available to anyone who asks for them as soon as they have been checked and entered into our computer system. We believe that to enhance biomonitoring procedures and the quality of our nation's waters we should work cooperatively. We believe this means we should openly share ideas and data.
 
@@ -19,6 +19,10 @@ Our policy is the same for the organisms we identify. We keep all of the organis
 
 Specific questions regarding this policy should be directed to Scott Miller, (435)797-2612.
 
-# Online Data Query
+## Online Data Query
 
-# Mapp Application for Freshwater Invertibrate Taxa
+TBA
+
+## Mapp Application for Freshwater Invertibrate Taxa
+
+TBA

@@ -10,7 +10,8 @@ import MenuItem from '@mui/material/MenuItem'
 import { styled } from '@mui/material/styles'
 import { MenuItem as MenuItemType } from '../types'
 import MenuJSON from '../../menus.json'
-import { Box, Container } from '@mui/material'
+import { Box } from '@mui/material'
+import { withPrefix } from 'gatsby'
 import log from 'loglevel'
 
 const menus = MenuJSON as Record<string, MenuItemType[]>
@@ -26,17 +27,20 @@ const Topbar: React.FC<TopbarProps> = ({ children }: TopbarProps) => {
         <>
             <Box sx={{ display: 'flex', background: '#2C387E', color: 'white' }}>
                 <Box sx={{ flex: '0 0 100px' }}>
-                    <img src="/images/logos/namc_white.svg" style={{ margin: 15 }} />
+                    <img src={withPrefix('/images/logos/namc_white.svg')} style={{ margin: 15 }} />
                 </Box>
                 <Typography variant="h3" color="inherit" noWrap>
                     National Aquatic Monitoring Center
                 </Typography>
                 <FlexSpacer />
                 <Box sx={{ flex: '0 0 10%' }}>
-                    <img src="/images/logos/blm.svg" style={{ maxWidth: '100%', margin: 15 }} />
+                    <img src={withPrefix('/images/logos/blm.svg')} style={{ maxWidth: '100%', margin: 15 }} />
                 </Box>
                 <Box sx={{ flex: '0 0 10%' }}>
-                    <img src="/images/logos/USU_White.png" style={{ maxWidth: '100%', margin: 'auto 0' }} />
+                    <img
+                        src={withPrefix('/images/logos/USU_White.png')}
+                        style={{ maxWidth: '100%', margin: 'auto 0' }}
+                    />
                 </Box>
             </Box>
             <AppBar position="relative">

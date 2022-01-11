@@ -3,7 +3,7 @@ title: Publications And Reports
 slug: "Projects/PublicationsReports"
 ---
 
-* Irvine, K.M., S.W. Miller, R. K. Al-Chokhachy, E.K. Archer, J.L. Kershner, and B. B. Roper.  In Prep. Evaluating Ecosystem Conceptual Models across Large Heterogeneous Landscapes.  To be submitted to Ecological Applications 
+* **Irvine, K.M., S.W. Miller, R. K. Al-Chokhachy, E.K. Archer, J.L. Kershner**, and B. B. Roper.  In Prep. Evaluating Ecosystem Conceptual Models across Large Heterogeneous Landscapes.  To be submitted to Ecological Applications 
 
 * Miller, S.W., J. Kotynek, and S. Judson.  In Prep. Contemporary and historic comparisons of aquatic macroinvertebrates in the regulated Green River and unregulated Yampa River within Dinosaur National Monument.  To be submitted to River Research and Applications 
 
