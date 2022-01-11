@@ -1,224 +1,303 @@
 ---
 title: Staff
-slug: "Staff"
+slug: "MeetTheStaff"
 ---
 
-# Director
+## Director
 
-## Trip Armstrong
-Since 2016
+<img src="/images/staff/trip_armstrong.jpeg" className="profilePic" alt="Trip" />
 
-![Trip]({{site.baseurl}}/assets/images/staff/trip_armstrong.jpeg)
+#### Trip Armstrong
 
-# Researchers
+* Since 2016
 
-## Jennifer Courtright
+--------------
 
-Aquatic Ecologist/Program Manager
-MS Biology (Stream Ecology)
-James Madison University
-Since 2013
+## Researchers
 
-![Jennifer]({{site.baseurl}}/assets/images/staff/jennifer_courtright.jpeg)
+<img src="/images/staff/jennifer_courtright.jpeg" className="profilePic" alt="Jennifer Courtright" />
 
-# Taxonomists
+#### Jennifer Courtright
 
-## Matt Tagg
-Taxonomist
-BS Environmental Studies (Fisheries & Wildlife)
-Utah State University
-Since 1993
+* Aquatic Ecologist/Program Manager
+* MS Biology (Stream Ecology)
+* James Madison University
+* Since 2013
 
-![Matt Tagg]({{site.baseurl}}/assets/images/staff/matt_tagg.jpeg)
+--------------
 
-## Andrew Caudillo
+## Taxonomists
 
-Lab Manager, Taxonomist
-BS Ecology, Evolution, Organismal Biology
-California State University Monterey Bay
-MS Environmental Science
-California State University Monterey Bay
-Since 2020
+<img src="/images/staff/matt_tagg.jpeg" className="profilePic" alt="Matt Tagg" />
 
-![Andrew Caudillo]({{site.baseurl}}/assets/images/staff/andrew_caudillo.jpeg)
+#### Matt Tagg
 
-## Daniel Nelson
+* Taxonomist
+* BS Environmental Studies (Fisheries & Wildlife)
+* Utah State University
+* Since 1993
 
-Taxonomist
-Research Taxonomist
-PhD Biological Sciences
-University of Alabama
-Since 2020
+--------------
 
-![Daniel Nelson]({{site.baseurl}}/assets/images/staff/daniel_nelson.jpeg)
+<img src="/images/staff/andrew_caudillo.jpeg" className="profilePic" alt="Andrew Caudillo" />
 
-# Technicians
+#### Andrew Caudillo
 
+* Lab Manager, Taxonomist
+* BS Ecology, Evolution, Organismal Biology
+* California State University Monterey Bay
+* MS Environmental Science
+* California State University Monterey Bay
+* Since 2020
 
-Aletia James
-Biology
-Since 2018
+--------------
 
-![James]({{site.baseurl}}/assets/images/staff/James.jpg)
+<img src="/images/staff/daniel_nelson.jpeg" className="profilePic" alt="Daniel Nelson" />
 
-Kristiana Elliot
-ADVS Pre-Vet
-Since 2019
+#### Daniel Nelson
 
-![James]({{site.baseurl}}/assets/images/staff/Elliot.jpg)
+* Taxonomist
+* Research Taxonomist
+* PhD Biological Sciences
+* University of Alabama
+* Since 2020
 
-Taylor Heinsohn
-Psychology
-Since 2019
+--------------
 
-![Heinsohn]({{site.baseurl}}/assets/images/staff/Heinsohn.jpg)
+<img src="/images/staff/James.jpg" className="profilePic" alt="James" />
 
-Jena Austin
+## Technicians
+
+#### Aletia James
+* Biology
+* Since 2018
+
+--------------
+
+<img src="/images/staff/Elliot.jpg" className="profilePic" alt="James" />
+
+#### Kristiana Elliot
+* ADVS Pre-Vet
+* Since 2019
+
+--------------
+
+<img src="/images/staff/Heinsohn.jpg" className="profilePic" alt="Heinsohn" />
+
+#### Taylor Heinsohn
+* Psychology
+* Since 2019
+--------------
+
+<img src="/images/staff/Austin.jpg" className="profilePic" alt="Austin" />
+
+#### Jena Austin
 Conservation and Restoration Ecology
 Since 2019
 
-![Austin]({{site.baseurl}}/assets/images/staff/Austin.jpg)
+--------------
 
-Garret Haeck
+
+<img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
+#### Garret Haeck
 Biology
 Since 2019
 
-![Haeck]({{site.baseurl}}/assets/images/staff/Haeck.jpg)
+--------------
 
-Casey Choate
-Management/Restoration of Aquatic Ecosystems
-Since 2019
 
-![Choate]({{site.baseurl}}/assets/images/staff/Choate.jpg)
+<img src="/images/staff/Choate.jpg" className="profilePic" alt="Choate" />
 
-Maycee Page
-Fisheries and Aquatic Science
-Since 2020
+####  Casey Choate
+* Management/Restoration of Aquatic Ecosystems
+* Since 2019
 
-![Page]({{site.baseurl}}/assets/images/staff/Page.jpg)
+--------------
 
-Ashley Peterson
-Wildlife Ecology
-Since 2020
+<img src="/images/staff/Page.jpg" className="profilePic" alt="Page" />
 
-![Peterson]({{site.baseurl}}/assets/images/staff/Peterson.jpg)
+#### Maycee Page
+* Fisheries and Aquatic Science
+* Since 2020
 
-Kayla Hancey
-Ecology/Biodiversity
-Since 2020
+--------------
 
-![Hancey]({{site.baseurl}}/assets/images/staff/Hancey.jpg)
+<img src="/images/staff/Peterson.jpg" className="profilePic" alt="Peterson" />
 
-Sandra Johnston
-Management/Restoration of Aquatic Ecosystems
-Since 2021
+#### Ashley Peterson
+* Wildlife Ecology
+* Since 2020
 
-![Johnston]({{site.baseurl}}/assets/images/staff/Johnston.jpg)
+--------------
 
-Talease Shipley
-Biology
-Since 2021
+<img src="/images/staff/Hancey.jpg" className="profilePic" alt="Hancey" />
 
-![Shipley]({{site.baseurl}}/assets/images/staff/Shipley.jpg)
+#### Kayla Hancey
+* Ecology/Biodiversity
+* Since 2020
 
-Julie Estes
-Cellular/Molecular Biology
-Since 2021
+--------------
 
-![Estes]({{site.baseurl}}/assets/images/staff/Estes.jpg)
+<img src="/images/staff/Johnston.jpg" className="profilePic" alt="Johnston" />
 
-Hannah MacInnes
-Conservation and Restoration Ecology
-Since 2021
+#### Sandra Johnston
+* Management/Restoration of Aquatic Ecosystems
+* Since 2021
 
-![MacInnes]({{site.baseurl}}/assets/images/staff/MacInnes.jpg)
+--------------
 
-Teressa Burt
-Biology
-Since 2021
+<img src="/images/staff/Shipley.jpg" className="profilePic" alt="Shipley" />
 
-![Burt]({{site.baseurl}}/assets/images/staff/Burt.jpg)
+#### Talease Shipley
+* Biology
+* Since 2021
 
-Tim Cromwell
-Conservation and Restoration Ecology
-Since 2021
+--------------
 
-![Calwell]({{site.baseurl}}/assets/images/staff/Calwell.jpg)
+<img src="/images/staff/Estes.jpg" className="profilePic" alt="Estes" />
 
-Ben Ashby
-Biochemistry
-Since 2021
+#### Julie Estes
+* Cellular/Molecular Biology
+* Since 2021
 
-![Ashby]({{site.baseurl}}/assets/images/staff/Ashby.jpg)
+--------------
 
-Lauren Anderson
-Wildlife Ecology
-Since 2021
+<img src="/images/staff/MacInnes.jpg" className="profilePic" alt="MacInnes" />
 
-![Anderson]({{site.baseurl}}/assets/images/staff/Anderson.jpg)
+#### Hannah MacInnes
+* Conservation and Restoration Ecology
+* Since 2021
 
-Rachel Shamo
-Biology
-Since 2021
+--------------
 
-![Shamo]({{site.baseurl}}/assets/images/staff/Shamo.jpg)
+<img src="/images/staff/Burt.jpg" className="profilePic" alt="Burt" />
 
-Carlos Vasquez
+#### Teressa Burt
+* Biology
+* Since 2021
+
+--------------
+
+
+<img src="/images/staff/Calwell.jpg" className="profilePic" alt="Calwell" />
+
+#### Tim Cromwell
+* Conservation and Restoration Ecology
+* Since 2021
+
+--------------
+
+
+<img src="/images/staff/Ashby.jpg" className="profilePic" alt="Ashby" />
+
+#### Ben Ashby
+* Biochemistry
+* Since 2021
+
+--------------
+
+
+<img src="/images/staff/Anderson.jpg" className="profilePic" alt="Anderson" />
+
+#### Lauren Anderson
+* Wildlife Ecology
+* Since 2021
+
+--------------
+
+
+<img src="/images/staff/Shamo.jpg" className="profilePic" alt="Shamo" />
+
+#### Rachel Shamo
+* Biology
+* Since 2021
+
+--------------
+
+
+<img src="/images/staff/Vasquez.jpg" className="profilePic" alt="Vasquez" />
+
+#### Carlos Vasquez
 Geology
 Since 2021
 
-![Vasquez]({{site.baseurl}}/assets/images/staff/Vasquez.jpg)
+--------------
 
-Alex Jensen
-Biology
-Since 2021
 
-![Jensen]({{site.baseurl}}/assets/images/staff/Jensen.jpg)
+<img src="/images/staff/Jensen.jpg" className="profilePic" alt="Jensen" />
 
-Ian Spratling
-Rangeland Ecology Management
-Since 2021
+#### Alex Jensen
+* Biology
+* Since 2021
 
-![Spratling]({{site.baseurl}}/assets/images/staff/Sptraling.jpg)
+--------------
 
-Dylan Lipscomb
-Conservation and Restoration Ecology
-Since 2021
 
-![Lipscomb]({{site.baseurl}}/assets/images/staff/Lipscomb.jpg)
+<img src="/images/staff/Sptraling.jpg" className="profilePic" alt="Spratling" />
 
-Isabelle Santini
-Civil Engineering
-Since 2021
+#### Ian Spratling
+* Rangeland Ecology Management
+* Since 2021
 
-![Santini]({{site.baseurl}}/assets/images/staff/Santini.jpg)
+--------------
 
-Jared Young
-Fisheries and Aquatic Science
-Since 2021
 
-![Young]({{site.baseurl}}/assets/images/staff/Young.jpg)
+<img src="/images/staff/Lipscomb.jpg" className="profilePic" alt="Lipscomb" />
 
-Annie Watson
-Undeclared
-Since 2021
+#### Dylan Lipscomb
+* Conservation and Restoration Ecology
+* Since 2021
 
-![Watson]({{site.baseurl}}/assets/images/staff/Watson.jpg)
+--------------
 
-Anya Briscoe
-Undeclared
-Since 2021
 
-![Briscoe]({{site.baseurl}}/assets/images/staff/Briscoe.jpg)
+<img src="/images/staff/Santini.jpg" className="profilePic" alt="Santini" />
 
-Samuel Jefferson
-Biology
-Since 2021
+#### Isabelle Santini
+* Civil Engineering
+* Since 2021
 
-![Jefferson]({{site.baseurl}}/assets/images/staff/Jefferson.jpg)
+--------------
 
-Alisa Harrison
-Plant Science
-Since 2021
 
-![Harrison]({{site.baseurl}}/assets/images/staff/Harrison.jpg)
+<img src="/images/staff/Young.jpg" className="profilePic" alt="Young" />
+
+#### Jared Young
+* Fisheries and Aquatic Science
+* Since 2021
+
+--------------
+
+<img src="/images/staff/Watson.jpg" className="profilePic" alt="Watson" />
+
+#### Annie Watson
+* Undeclared
+* Since 2021
+
+--------------
+
+<img src="/images/staff/Briscoe.jpg" className="profilePic" alt="Briscoe" />
+
+#### Anya Briscoe
+* Undeclared
+* Since 2021
+
+--------------
+
+<img src="/images/staff/Jefferson.jpg" className="profilePic" alt="Jefferson" />
+
+#### Samuel Jefferson
+* Biology
+* Since 2021
+
+--------------
+
+<img src="/images/staff/Harrison.jpg" className="profilePic" alt="Harrison" />
+
+#### Alisa Harrison
+* Plant Science
+* Since 2021
+
+--------------
+
+

@@ -1,7 +1,5 @@
 import * as React from 'react'
 import CssBaseline from '@mui/material/CssBaseline'
-import Typography from '@mui/material/Typography'
-import Link from '@mui/material/Link'
 import { ThemeProvider } from '@mui/material/styles'
 import { outerTheme, innerTheme } from '../theme'
 import Footer from './Footer'
@@ -16,10 +14,9 @@ const PageWrapper: React.FC<PageWrapperProps> = ({ children }: PageWrapperProps)
         <ThemeProvider theme={outerTheme}>
             <CssBaseline />
             <Topbar />
-            <main>{children}</main>
+            {children}
             {/* Footer */}
-            <Footer />
-            {/* End footer */}
+            {/* <Footer /> */}
         </ThemeProvider>
     )
 }

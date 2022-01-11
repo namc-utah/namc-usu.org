@@ -15,7 +15,7 @@ const Home: React.FC<HomeProps> = ({ children }: HomeProps) => {
         <PageWrapper>
             <>
                 {/* Hero unit */}
-                <Box
+                {/* <Box
                     sx={{
                         bgcolor: 'background.paper',
                         pt: 8,
@@ -35,8 +35,8 @@ const Home: React.FC<HomeProps> = ({ children }: HomeProps) => {
                             <Button variant="outlined">Secondary action</Button>
                         </Stack>
                     </Container>
-                </Box>
-                <Container sx={{ py: 8 }} maxWidth="xl">
+                </Box> */}
+                <Container sx={{ py: 8 }} maxWidth="md">
                     {/* End hero unit */}
                     {children}
                 </Container>

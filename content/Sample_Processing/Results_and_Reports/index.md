@@ -1,6 +1,6 @@
 ---
 title: Results and Reports
-slug: "ResultsReports"
+slug: "SampleProcessing/ResultsAndReports"
 ---
 
 # Example Report

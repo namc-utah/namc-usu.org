@@ -3,10 +3,19 @@ import { graphql } from 'gatsby'
 import { html2material } from '../lib/rehype'
 import Page from '../components/Page'
 import Home from '../components/Home'
-import { Typography } from '@mui/material'
 
 export interface TemplateProps {
-    data: any
+    data: {
+        page: {
+            fields: {
+                slug: string
+            }
+            html: string
+            frontmatter: {
+                title: string
+            }
+        }
+    }
 }
 
 const Template: React.FC<TemplateProps> = ({
@@ -17,14 +26,7 @@ const Template: React.FC<TemplateProps> = ({
     const content = html2material(html)
 
     if (fields.slug === '/index') return <Home>{content}</Home>
-    return (
-        <Page>
-            <>
-                <Typography variant="h3">{frontmatter.title}</Typography>
-                {content}
-            </>
-        </Page>
-    )
+    return <Page title={frontmatter.title}>{content}</Page>
 }
 
 export const pageQuery = graphql`

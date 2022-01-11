@@ -1,20 +1,17 @@
 import React, { useState } from 'react'
-import { graphql } from 'gatsby'
 import AppBar from '@mui/material/AppBar'
 import CameraIcon from '@mui/icons-material/PhotoCamera'
 import Toolbar from '@mui/material/Toolbar'
 import Typography from '@mui/material/Typography'
 import Menu from '@mui/material/Menu'
-import MenuIcon from '@mui/icons-material/Menu'
-import Container from '@mui/material/Container'
-import Avatar from '@mui/material/Avatar'
 import Button from '@mui/material/Button'
-import Tooltip from '@mui/material/Tooltip'
 import { navigate } from 'gatsby'
 import MenuItem from '@mui/material/MenuItem'
 import { styled } from '@mui/material/styles'
 import { MenuItem as MenuItemType } from '../types'
 import MenuJSON from '../../menus.json'
+import { Box, Container } from '@mui/material'
+import log from 'loglevel'
 
 const menus = MenuJSON as Record<string, MenuItemType[]>
 
@@ -26,18 +23,26 @@ const FlexSpacer = styled('div')({ flexGrow: 1 })
 
 const Topbar: React.FC<TopbarProps> = ({ children }: TopbarProps) => {
     return (
-        <AppBar position="relative">
-            <Toolbar>
-                <CameraIcon sx={{ mr: 2 }} />
-                <Typography variant="h6" color="inherit" noWrap>
-                    BLM/USU National Aquatic Monitoring Center
+        <>
+            <Box sx={{ display: 'flex', background: '#2C387E', color: 'white' }}>
+                <Box sx={{ flex: '0 0 100px' }}>
+                    <img src="/images/logos/namc_white.svg" style={{ margin: 15 }} />
+                </Box>
+                <Typography variant="h3" color="inherit" noWrap>
+                    National Aquatic Monitoring Center
                 </Typography>
                 <FlexSpacer />
-                {menus['topbar'].map((menu, idx) => (
-                    <GatsbyMenu key={`menu-${idx}`} menu={menu} />
-                ))}
-            </Toolbar>
-        </AppBar>
+                <Box sx={{ flex: '0 0 10%' }}>
+                    <img src="/images/logos/blm.svg" style={{ maxWidth: '100%', margin: 15 }} />
+                </Box>
+                <Box sx={{ flex: '0 0 10%' }}>
+                    <img src="/images/logos/USU_White.png" style={{ maxWidth: '100%', margin: 'auto 0' }} />
+                </Box>
+            </Box>
+            <AppBar position="relative">
+                <GatsbyMenu menu={menus['topbar']} />
+            </AppBar>
+        </>
     )
 }
 
@@ -58,53 +63,79 @@ const menuClick =
     }
 
 interface GatsbyMenuProps {
-    menu: MenuItemType
+    menu: MenuItemType[]
+}
+
+enum MenuHover {
+    ANY = 'ANY',
+    BUTTON = 'BUTTON',
+    MENU = 'MENU'
+}
+type MenuState = {
+    el: HTMLElement
+    elIdx: number
 }
 
 const GatsbyMenu: React.FC<GatsbyMenuProps> = ({ menu }: GatsbyMenuProps) => {
-    const [anchorElNav, setAnchorElNav] = useState<null | HTMLElement>(null)
-    const hasChildren = menu.children && menu.children.length > 0
-    const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>): void => {
-        if (hasChildren) setAnchorElNav(event.currentTarget)
-    }
-    const handleCloseNavMenu = (): void => {
-        setAnchorElNav(null)
+    const [anchor, setAnchorElNav] = useState<MenuState | null>(null)
+    const [hoverType, setHoverType] = useState<MenuHover>(MenuHover.BUTTON)
+    const handleOpenNavMenu =
+        (hasChildren: boolean, elIdx: number) =>
+        (event: React.MouseEvent<HTMLElement>): void => {
+            if (hasChildren) {
+                setAnchorElNav({ el: event.currentTarget, elIdx })
+                setHoverType(MenuHover.BUTTON)
+            }
+        }
+    const handleCloseNavMenu = (activeHoverType: MenuHover) => (): void => {
+        if (activeHoverType === MenuHover.ANY || hoverType === activeHoverType) setAnchorElNav(null)
     }
     return (
-        <>
-            <Button
-                color="inherit"
-                onMouseOver={handleOpenNavMenu}
-                onClick={menuClick(menu)}
-                // onMouseOut={handleCloseNavMenu}
-                aria-label="account of current user"
-                aria-controls="menu-appbar"
-                aria-haspopup="true"
-            >
-                {menu.label}
-            </Button>
-            {hasChildren && (
-                <Menu
-                    anchorOrigin={{
-                        vertical: 'bottom',
-                        horizontal: 'left'
-                    }}
-                    anchorEl={anchorElNav}
-                    keepMounted
-                    transformOrigin={{
-                        vertical: 'top',
-                        horizontal: 'left'
-                    }}
-                    open={Boolean(anchorElNav)}
-                    onClose={handleCloseNavMenu}
-                >
-                    {menu.children?.map((mchild, idy) => (
-                        <MenuItem key={`menu-${idy}`} onClick={menuClick(mchild)} color="inherit">
-                            {mchild.label}
-                        </MenuItem>
-                    ))}
-                </Menu>
-            )}
-        </>
+        <Toolbar>
+            {menu.map((menu, idx) => {
+                const hasChildren = Boolean(menu.children && menu.children.length > 0)
+                return (
+                    <React.Fragment key={`menu-btn-${idx}`}>
+                        <Button
+                            color="inherit"
+                            onMouseOver={handleOpenNavMenu(hasChildren, idx)} // onmouseenter event does not bubble
+                            onClick={menuClick(menu)}
+                            aria-label="account of current user"
+                            aria-controls="menu-appbar"
+                            aria-haspopup="true"
+                        >
+                            {menu.label}
+                        </Button>
+                        {hasChildren && (
+                            <Menu
+                                key={`mItem-${idx}`}
+                                anchorOrigin={{
+                                    vertical: 'bottom',
+                                    horizontal: 'left'
+                                }}
+                                onMouseOver={(): void => {
+                                    setHoverType(MenuHover.MENU)
+                                }}
+                                anchorEl={anchor?.el}
+                                MenuListProps={{ onMouseLeave: handleCloseNavMenu(MenuHover.MENU) }}
+                                keepMounted
+                                transformOrigin={{
+                                    vertical: 'top',
+                                    horizontal: 'left'
+                                }}
+                                open={Boolean(anchor?.elIdx === idx)}
+                                onClose={handleCloseNavMenu(MenuHover.ANY)}
+                            >
+                                {menu.children?.map((mchild, idy) => (
+                                    <MenuItem key={`menu-${idy}`} onClick={menuClick(mchild)} color="inherit">
+                                        {mchild.label}
+                                    </MenuItem>
+                                ))}
+                            </Menu>
+                        )}
+                    </React.Fragment>
+                )
+            })}
+        </Toolbar>
     )
 }

@@ -9,8 +9,7 @@
   ],
   "engines": {
     "node": ">=16.13.0"
- },
-
+  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
@@ -40,6 +39,7 @@
     "gatsby-plugin-slug": "^2.0.0",
     "gatsby-source-filesystem": "^4.1.0",
     "gatsby-transformer-remark": "^5.1.0",
+    "loglevel": "^1.8.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "rehype-parse": "^8.0.3",

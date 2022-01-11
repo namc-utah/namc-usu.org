@@ -1,6 +1,6 @@
 ---
 title: "Quality Standards"
-slug: "QualityStandards"
+slug: "SampleProcessing/QualityStandards"
 ---
 
 # Introduction
