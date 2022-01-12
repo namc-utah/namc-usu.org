@@ -1,6 +1,7 @@
 import React, { createElement } from 'react'
-import { Typography, Link, Divider } from '@mui/material'
+import { Typography, Divider } from '@mui/material'
 import PageImage from '../components/PageImage'
+import PageLinks from '../components/PageLinks'
 import rehypeReact from 'rehype-react'
 import rehypeParse from 'rehype-parse'
 import { unified } from 'unified'
@@ -15,7 +16,7 @@ export const html2material = (text: string) =>
             createElement,
             components: {
                 p: (props: any) => <Typography variant="body1" gutterBottom {...props} />,
-                a: (props: any) => <Link {...props} target="_blank" />,
+                a: (props: any) => <PageLinks {...props} />,
                 h1: (props: any) => <Typography variant="h3" gutterBottom {...props} sx={{ clear: 'both' }} />,
                 h2: (props: any) => <Typography variant="h4" gutterBottom {...props} sx={{ clear: 'both' }} />,
                 h3: (props: any) => <Typography variant="h5" gutterBottom {...props} />,
