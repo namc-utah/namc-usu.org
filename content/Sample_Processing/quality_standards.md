@@ -23,7 +23,7 @@ The sorting and subsampling of aquatic invertebrate samples involves removing al
 4. Thoroughly clean all sorting and subsampling equipment: contamination of samples with individuals from a previous sample is minimized by: 1. thoroughly washing and drying sieves after each sample split; 2. inspecting each sieve prior to splitting a new sample; and 3. noticing if any invertebrates in a sample appear to look "dried out" with respect to other invertebrates in that sample. These desiccated invertebrates may have been leftover from a previous sample (i.e., they were not removed from the sieve during a previous subsampling event and were inadvertently added to a different sample). and thus are removed from the current sample and discarded as there is no way of determining which sample they were supposed to belong to.
 5. Conduct systematic checks of sorting effectiveness: 10% of all sorted samples are examined to ensure that at least 95% of the organisms are removed from the examined material. Specifically, a second sorter examines the organic and inorganic matter from which organisms have been removed (i.e., remnant material) for at least 10% of the time that the sample was originally sorted. Remaining organisms are added to sample vials for identification and enumeration. Sorting effectiveness (Es) is subsequently computed as:
 
-TODO: equation
+![sorting effectiveness](/images/equations/sorting_effectiveness.png)
 
 Where R is the total number of organisms obtained during the re-sort of the remnant material and S is the total number of organisms originally obtained from the sample sorting. The goal of this is for ≥ 95% of the organisms be removed during the original sort. Additionally, sorters are evaluated semi-annually in regards to sorting effectiveness and productivity.
 6. Remedial Action. If sorting efficiency is between 90 and 94.4% one additional sample is checked for
@@ -41,7 +41,7 @@ rare, invasive, or unusual taxa for the habitats or geographical location sample
 4. Re-identification and enumeration: a second taxonomist, who was not responsible for the original identifications, re-identifies and re-enumerates a minimum of 10% of the samples identified per year (and 10% from a given sample set as requested). This allows for the detection of both isolated (single occurrences) and systematic (multiple regular occurrences) taxonomicerrors,whichdictatesthecorrectiveactionthatshouldbetaken. Similarity
 between taxonomists is assessed using Sorensen’s similarity index (B):
 
-TODO: equation
+![sorensens](/images/equations/sorensens.png)
 
 Where Xij and Xik are the number of individuals of species i in the respective samples (j,k). The comparison between both samples is summed for n number of species in the samples. The goal is to have 95% similarity between paired samples. If 95% similarity is not achieved between taxonomists and discrepancies do not result from taxonomic ambiguities, all mis- identified operational taxonomic units identified by the taxonomist in question are independently checked for all samples within a particular sample set.
 5. External taxonomic verification: 10% of all operational taxonomic units plus 20% of rare OTUs identified within a given calendar year are verified by external experts. The specimens are randomly selected from our database regardless of original taxonomist and excluding taxa identified to a coarser resolution relative to our Standard Effort Levels (see Appendix 1). Prior to sending specimens for verification, at least two taxonomists review the specimenandcometoaconsensusontheidentification. Oncespecimensarereturned,the expert’s identification is compared to both the original identification and the consensus identification. If there is a mis-identification bias by a particular taxonomist, the issue is addressed. The verified specimens are retained in the reference collection.
@@ -58,7 +58,9 @@ generating reports, the data is checked for missing information, outliers, and o
 The National Aquatic Monitoring Center staff members have 6-14 years experience tracking, processing and identifying aquatic macroinvertebrate samples. QA/QC is a dynamic process and constructive comments are always welcome.
 In 2002, the National Aquatic Monitoring Center recently completed a comprehensive QA/QC evaluationofallofitsfieldandlaboratoryprocedures. Littlebiasorvariationinseveral measures of accuracy and precision among different field crews, sample sorters, taxonomists and the same taxonomist identifying the same sample several times over a several month period were detected (Table 1).
 
-Table 1. Summary of variability in data attributable to different activities associated with collection of field data, laboratory sample processing and taxonomic identifications. These data were compiled during December of 2002.
+<hr>
+
+Table 1. *Summary of variability in data attributable to different activities associated with collection of field data, laboratory sample processing and taxonomic identifications. These data were compiled during December of 2002.*
 
 |Component of Variability Measured|Range in percent Similarity|
 |---|---|

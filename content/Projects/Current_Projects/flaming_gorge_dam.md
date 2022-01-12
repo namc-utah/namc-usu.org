@@ -20,25 +20,25 @@ Since aquatic macroinvertebrates are thought to overwhelmingly oviposit on emerg
 
 The objective of this effort is to characterize oviposition habitat selection by macroinvertebrates in the Green River below FGD, and to quantify the extent to which dam operations alter oviposition habitats and subsequent recruitment success. Similar studies will be carried out below Glen Canyon Dam, where macroinvertebrate assemblages are among the most depauperate of western tailwaters. This project is part of a larger collaboration seeking to inform tailwater management so as to better balance societal water and power needs with those of river ecosystems.
 
-Project Documents
+# Project Documents
 
 - [Oviposition Habitat Selectivity of Tailwater Macroinvertebrates: A Methodological Approach from the Colorado River Basin](assets/docs/projects/Oviposition_Poster_Final.pdf)
 
 # Figures
 
-![Flaming Gorge 01]({{site.baseurl}}/assets/images/projects/flaming_gorge_01.png)
+![Flaming Gorge 01](images/projects/flaming_gorge_01.png)
 
 Figure 1. Reductions in the spatial extent of wetted habitat resulting from hydropeaking on the Green River below FGD.
 
-![Flaming Gorge 02]({{site.baseurl}}/assets/images/projects/flaming_gorge_02.png)
+![Flaming Gorge 02](images/projects/flaming_gorge_02.png)
 
 Figure 2. Three different types of aquatic macroinvertebrate eggs found attached to the bottom of a rock in the Green River below FGD.
 This Section's Image is Missing
 
-![Flaming Gorge 03]({{site.baseurl}}/assets/images/projects/flaming_gorge_03.png)
+![Flaming Gorge 03](images/projects/flaming_gorge_03.png)
 
 Figure 3. Brachycentrus (black caddis) eggs lining the submerged edge of a large emergent boulder below FGD.
 
-![Flaming Gorge 04]({{site.baseurl}}/assets/images/projects/flaming_gorge_04.png)
+![Flaming Gorge 04](images/projects/flaming_gorge_04.png)
 
 Figure 4. Green River hydrograph with flow periods that are “out-of-sync” with the timing of invertebrate oviposition outlined by grey boxes. Eggs laid at high flow during these periods (e.g., at dusk; red arrows) may become exposed during low flow periods (inset photograph) and are considered out-of-sync with dam operations. Eggs laid outside this period, such as at dawn (blue arrows), are in-sync with dam operations, having low risk of being exposed.

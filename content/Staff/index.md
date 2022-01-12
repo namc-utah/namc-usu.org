@@ -64,9 +64,9 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/James.jpg" className="profilePic" alt="James" />
-
 ## Technicians
+
+<img src="/images/staff/James.jpg" className="profilePic" alt="James" />
 
 #### Aletia James
 * Biology
@@ -138,7 +138,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Johnston.jpg" className="profilePic" alt="Johnston" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Johnston" />
 
 #### Sandra Johnston
 * Management/Restoration of Aquatic Ecosystems
@@ -146,7 +146,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Shipley.jpg" className="profilePic" alt="Shipley" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Shipley" />
 
 #### Talease Shipley
 * Biology
@@ -154,7 +154,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Estes.jpg" className="profilePic" alt="Estes" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Estes" />
 
 #### Julie Estes
 * Cellular/Molecular Biology
@@ -179,7 +179,7 @@ Since 2019
 --------------
 
 
-<img src="/images/staff/Calwell.jpg" className="profilePic" alt="Calwell" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Calwell" />
 
 #### Tim Cromwell
 * Conservation and Restoration Ecology
@@ -188,7 +188,7 @@ Since 2019
 --------------
 
 
-<img src="/images/staff/Ashby.jpg" className="profilePic" alt="Ashby" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Ashby" />
 
 #### Ben Ashby
 * Biochemistry
@@ -197,7 +197,7 @@ Since 2019
 --------------
 
 
-<img src="/images/staff/Anderson.jpg" className="profilePic" alt="Anderson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
 
 #### Lauren Anderson
 * Wildlife Ecology
@@ -218,8 +218,8 @@ Since 2019
 <img src="/images/staff/Vasquez.jpg" className="profilePic" alt="Vasquez" />
 
 #### Carlos Vasquez
-Geology
-Since 2021
+* Geology
+* Since 2021
 
 --------------
 
@@ -233,7 +233,7 @@ Since 2021
 --------------
 
 
-<img src="/images/staff/Sptraling.jpg" className="profilePic" alt="Spratling" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Spratling" />
 
 #### Ian Spratling
 * Rangeland Ecology Management
@@ -268,7 +268,7 @@ Since 2021
 
 --------------
 
-<img src="/images/staff/Watson.jpg" className="profilePic" alt="Watson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Watson" />
 
 #### Annie Watson
 * Undeclared
@@ -284,7 +284,7 @@ Since 2021
 
 --------------
 
-<img src="/images/staff/Jefferson.jpg" className="profilePic" alt="Jefferson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Jefferson" />
 
 #### Samuel Jefferson
 * Biology

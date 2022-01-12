@@ -15,14 +15,14 @@ Lotic macroinvertebrates inhabit temporally variable environments; however, stud
 
 # Project Documents
 
-- [Society for Freshwater Science 2010 presentation](assets/docs/projects/Miller_NWBio_2010.pdf)
+- [Society for Freshwater Science 2010 presentation](/docs/projects/Miller_NWBio_2010.pdf)
 
 # Project Figures
 
-![Predictors]({{site.baseurl}}/assets/images/projects/crb_graphic.png)
+![Predictors](images/projects/crb_graphic.png)
 
 Relative importance of biophysical predictors in explaining variation in average macroinvertebrate stability among 48 sites and 311 individual samples collected throughout the interior Columbia River Basin.
 
-![Predictors 2](!{{site.baseurl}}/assets/images/projects/crb_graphic_02.png)
+![Predictors 2](images/projects/crb_graphic_02.png)
 
 Average macroinvertebrate stability as a function of O/E scores, water temperature and road density. Relationships are depicted as partial dependency plots from random forest modeling.

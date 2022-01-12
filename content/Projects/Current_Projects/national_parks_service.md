@@ -1,6 +1,6 @@
 ---
 title: Contemporary and historic comparisons of aquatic macroinvertebrates in the regulated Green River and unregulated Yampa River within Dinosaur National Monument
-slug: "Projects/Project5"
+slug: "Projects/Project6"
 ---
 
 # Collaborators
@@ -16,11 +16,11 @@ Our results largely support the downstream recovery trajectories of macroinverte
 
 # Project Documents
 
-- [2013 Report to the National Park Service]({{site.baseurl}}/assets/docs/projects/DINO_2013_BMI_Draft_Report_30April2013.pdf)
-- [Talk to Upper Colorado River Guides]({{site.baseurl}}/assets/docs/projects/River_guides_talk.pdf)
+- [2013 Report to the National Park Service](/docs/projects/DINO_2013_BMI_Draft_Report_30April2013.pdf)
+- [Talk to Upper Colorado River Guides](/docs/projects/River_guides_talk.pdf)
 
 # Project Images
 
-![NPS01]({{site.baseurl}}/assets/images/projects/nps_01.png)
+![NPS01](images/projects/nps_01.png)
 
-![NPS02]({{site.baseurl}}/assets/images/projects/nps02.png)
+![NPS02](images/projects/nps02.png)

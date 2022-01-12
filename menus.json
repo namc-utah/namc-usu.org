@@ -17,8 +17,8 @@
           "url": "/Quotes"
         },
         {
-          "label": "Online Sample Submission",
-          "url": "https://submission.namc.usu.edu/",
+          "label": "Online Sample Submission (INSTAR)",
+          "url": "http://instar.namc-usu.org",
           "newWindow": true
         },
         {
@@ -32,10 +32,6 @@
         {
           "label": "Results and Reports",
           "url": "/SampleProcessing/ResultsAndReports"
-        },
-        {
-          "label": "Field Forms (Archive)",
-          "url": "/FieldForms"
         }
       ]
     },
@@ -43,10 +39,6 @@
       "label": "Monitoring Resources",
       "url": "MonitoringResources",
       "children": [
-        {
-          "label": "Monitoring Introduction",
-          "url": "/MonitoringResources/MonitoringIntroduction"
-        },
         {
           "label": "Monitoring Protocols",
           "url": "/MonitoringResources/MonitoringProtocols"
@@ -64,10 +56,6 @@
         {
           "label": "Current Projects",
           "url": "/Projects/CurrentProjects"
-        },
-        {
-          "label": "Archived Projects",
-          "url": "/Projects/ArchivedProjects"
         },
         {
           "label": "Publicity",

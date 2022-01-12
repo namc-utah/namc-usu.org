@@ -1,6 +1,6 @@
 ---
 title: Effects of piscicide treatments on non-target organisms
-slug: "Projects/Project5"
+slug: "Projects/Project7"
 ---
 
 # Collaborators

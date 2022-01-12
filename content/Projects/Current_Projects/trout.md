@@ -1,6 +1,6 @@
 ---
 title: Responses of macroinvertebrate drift, benthic assemblages and trout foraging to hydropeaking
-slug: "Projects/Project6"
+slug: "Projects/Project8"
 ---
 
 # Collaborators
@@ -16,10 +16,10 @@ The National Aquatic Monitoring Center is working to quantify responses of macro
 
 # Project Documents
 
-- [Report to Argonne National Laboratory and Western Area Power Administration]({{site.baseurl}}/assets/docs/FGD_DP_BMI_Draft_6April2012.pdf)
+- [Report to Argonne National Laboratory and Western Area Power Administration](/docs/projects/FGD_DP_BMI_Draft_6April2012.pdf)
 
 # Project Images
 
-![trou01]({{site.baseurl}}/assets/images/projects/trout01.png)
+![trou01](images/projects/trout01.png)
 
-![trout02]({{site.baseurl}}/assets/images/projects/trout02.png)
+![trout02](images/projects/trout02.png)

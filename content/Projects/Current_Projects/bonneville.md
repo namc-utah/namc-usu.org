@@ -16,15 +16,15 @@ Salmonid responses to riparian grazing exclosures are notoriously variable. Cons
 
 # Project Documents
 
-- [Western AFS presentation]({{site.baseurl}}/assets/docs/projects/Miller_Western_AFS_2010.pdf)
-- [UDWR Endangered Species Mitigation Fund Report]({{site.baseurl}}/assets/docs/projects/Miller_Western_AFS_2010.pdf)
+- [Western AFS presentation](/docs/projects/Miller_Western_AFS_2010.pdf)
+- [UDWR Endangered Species Mitigation Fund Report](/docs/projects/Miller_Western_AFS_2010.pdf)
 
 # Project Figures
 
-![Bonneville]({{site.baseurl}}/assets/images/projects/bonneville01.png)
+![Bonneville](images/projects/bonneville01.png)
 
 Percent increase in Bonneville cutthroat trout population density across a gradient of management scenarios: 1. Season-long grazing regime (Grazed-SL); 2. Exclosure within watershed experiencing a season-long grazing regime (Ungrazed-SL); 3. Short-duration grazing regime (Grazed-SDR); and 4. Exclosure within watershed experiencing short-duration grazing regime (Ungrazed-SDR).
 
-![Bonneville 02]({{site.baseurl}}/assets/images/projects/bonneville02.png)
+![Bonneville 02](images/projects/bonneville02.png)
 
-![Bonneville03]({{site.baseurl}}/assets/images/projects/bonneville03.png)
+![Bonneville03](images/projects/bonneville03.png)

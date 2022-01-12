@@ -19,16 +19,16 @@ TODO YouTube
 
 # Documents
 
-- [Fact Sheet]({site.baseurl}}/assets/docs/blm_fact_sheet.pdf)
-- [Indicators]({{site.baseurl}}/assets/docs/BLM_WRSA_Indicators.pdf)
-- [Results]({{site.baseurl}}/assets/docs/SWM_WRSA_2Feb2015_NoAnimation.pdf)
+- [Fact Sheet](docs/projects/blm_fact_sheet.pdf)
+- [Indicators](docs/projects/BLM_WRSA_Indicators.pdf)
+- [Results](docs/projects/SWM_WRSA_2Feb2015_NoAnimation.pdf)
 
 # Figures
 
-![Figure]({{site.baseurl}}/assets/images/blm_figure.png)
+![Figure](images/blm_figure.png)
 
 # Images
 
-![project team]({{site.baseurl}}/assets/images/blm_project.png)
+![project team](images/blm_project.png)
 
 2015 WRSA field crew and training staff

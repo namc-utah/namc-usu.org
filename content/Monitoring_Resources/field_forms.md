@@ -9,10 +9,10 @@ We encourage the collection of basic site and sample information while on locati
 
 Use this data sheet when collecting invertebrate samples from streams. Include all data sheets with your samples when you send them to the BugLab for identification.
 
-[BLM BugLab Stream Assessment Data Sheet]({{site.baseurl}}/assets/docs/bug_protocol_form.pdf)
+[BLM BugLab Stream Assessment Data Sheet](/docs/bug_protocol_form.pdf)
 
 # Benthic Invertebrate Sample Data Form
 
 USe this data sheet when collecting invertebrate samples from non-stream habitats (i.e. wetlands). Include all data sheets with your samples when you send them to the BugLab for identification
 
-[Benthic Data Sheet]({{site.baseurl}}/assets/docs/benthic_form.pdf)
+[Benthic Data Sheet](/docs/benthic_form.pdf)
