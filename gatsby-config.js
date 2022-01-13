@@ -10,9 +10,9 @@ require('ts-node').register({
 module.exports = {
     // Path prefix is needed when this lives as a subdir on the domain
     // For GHPages this is usually the name of the repo preceded by '/'
-    pathPrefix: '/namc-website-gatsby',
+    // pathPrefix: '/namc-website-gatsby',
     siteMetadata: {
-        siteUrl: 'https://namc-utah.github.io/namc-website-gatsby',
+        siteUrl: 'https://namc-usu.org',
         title: 'NAMC Website'
     },
     plugins: [
