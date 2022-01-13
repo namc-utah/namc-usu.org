@@ -26,6 +26,9 @@
           "url": "/SampleProcessing/QualityStandards"
         },
         {
+          "label": "Trip Test",
+          "url": "/SampleProcessing/QualityStandards"
+        {
           "label": "Laboratory Procedures",
           "url": "/SampleProcessing/LaboratoryProcedures"
         },
