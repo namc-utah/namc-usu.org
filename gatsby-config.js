@@ -13,9 +13,10 @@ module.exports = {
     // pathPrefix: '/namc-website-gatsby',
     siteMetadata: {
         siteUrl: 'https://namc-usu.org',
-        title: 'NAMC Website'
+        title: 'NAMC'
     },
     plugins: [
+        'gatsby-plugin-react-helmet',
         'gatsby-plugin-slug',
         'gatsby-transformer-remark',
         {

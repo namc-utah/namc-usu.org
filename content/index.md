@@ -1,5 +1,4 @@
 ---
-title: NAMC
 ---
 
 ## Our Mission
