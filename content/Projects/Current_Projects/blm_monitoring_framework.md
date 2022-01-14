@@ -23,6 +23,6 @@ The National Aquatic Monitoring Center is spearheading the Bureau of Land Manage
 
 Project Figures
 
-![Concept]({{site.baseurl}}/assets/images/projects/blm_monitoring.png)
+![Concept](images/projects/blm_monitoring.png)
 
 Conceptual model of the key ecosystem processes (ovals) and example structural attributes (rectangles) characteristic of functioning lotic ecosystems. This model will be used to identify priority ecosystem processes and attributes for which aquatic core indicators will be developed. Model adapted from Gregory et al., 1997.
