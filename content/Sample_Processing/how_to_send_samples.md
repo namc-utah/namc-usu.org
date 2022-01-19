@@ -10,7 +10,7 @@ slug: "SampleProcessing/HowToSendSamples"
     1. Internal labels: Pencil on waterproof paper (such as “Rite-in-the-Rain"). Do **NOT** use pen.
     1. External labels: Pencil on paper or masking tape works well for outside labels.
     1. Information: Both internal and external labels should, at a minimum, include information about the location of the sample and the date of sampling.
-    1. Jar Numbers: Place a consecutive sample number on the lid of each jar, samples requiring more than one jar should be labeled as 1 of 2, 2 of 2 OR 1a, 1b, 1c, etc.. We will composite multiple jars (Jar 1 of 2 and Jar 2 of 2) into a single sample in the laboratory.
+    1. Jar Numbers: Place a consecutive sample number on the lid of each jar, samples requiring more than one jar should be labeled as 1 of 2, 2 of 2 or 1a, 1b, 1c, etc.. NAMC will composite multiple jars (Jar 1 of 2 and Jar 2 of 2) into a single sample in the laboratory.
 
 ## Preparations in the office
 1. Samples should be preserved in ethanol (70-95%) unless one has made prior arrangements with our lab.  
