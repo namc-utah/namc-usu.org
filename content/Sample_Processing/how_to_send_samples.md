@@ -24,12 +24,18 @@ slug: "SampleProcessing/HowToSendSamples"
         10. Area or time (total area sampled, or time spent sampling)
         11. Sampler type (eg., Surber, Kick, Hess)
     3. Additional physical and chemical data collection are encouraged in the field, but do not need to be provided during sample submission unless additional reporting has been arranged prior.
-1. To prepare for shipping, follow the guidelines for Class 3 (Flammable Liquid) Hazardous Materials according to your chosen carrier’s guidelines. General guidelines are as follows:
-    1. Make sure the lids are on tightly. To be careful, you may wrap ele tape around the lids.
-    2. Place individual samples in ziploc baggies or other secondary sealed containers lined with absorbent material (such as paper towels) for support, cushion, and to absorb any leaks.
-    3. Place data sheets, including forms generated in the online submission, and any other paper documentation in a separate zip-lock plastic bag.
-    4. As specified by your carrier, mark package as Hazardous Material and fill out a Shipping Declaration for Dangerous Goods form to accompany the package (keep a copy for your records).
-    5. If HazMat shipping is not an option for your institution, please contact us concerning options for overnight shipping in water.
+1.Samples should be preserved in ethanol (70-95%) unless one has made prior arrangements with our lab.  Follow the guidelines for Class 3 (Flammable Liquid) Hazardous Materials according to your chosen carrier's guidelines.  If one does not have a hazardous materials permit, samples can be shipped overnight in water provided the samples were in ethanol prior to shipment.  If shipping in water, one must let NAMC know shipping. General packaging guidelines are as follows:
+
+•	Send an email to Andrew Caudillo (Andrew.caudillo@usu.edu) to inform NAMC that one is shipping samples.
+•	Ensure lids are on tightly. Wrapping electric tape around the lids ensures less liquid will leak during transport.
+•	Place individual samples in watertight or other secondary sealed containers lined with absorbent material (such as paper towels) for support, cushion, and to absorb any leaks. 
+•	Mark package as Hazardous Material and fill out a Shipping Declaration for Dangerous Goods form to accompany the package (and keep a copy for records).
+•	Ensure return label includes organization name and contact name.
+•	It is not necessary to include any paperwork with the sample shipment.
+
+Visit www.instar.namc-usu.org for any clarification on these instructions or the submission process.
+![image](https://user-images.githubusercontent.com/69914403/150181425-6b1826f5-0d6f-4924-ba7d-596a4a97e757.png)
+
     6. Ship samples, data sheets, and any additional information concerning the samples to:
      
         **BLM/USU National Aquatic Monitoring Center**
