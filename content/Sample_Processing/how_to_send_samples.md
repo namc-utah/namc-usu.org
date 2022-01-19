@@ -3,6 +3,16 @@ title: How to Send Samples
 slug: "SampleProcessing/HowToSendSamples"
 ---
 
+# Overview of sample submissions
+
+    1. NAMC accepts the following sample types:
+        - benthic macroinvertebrate samples
+        - drift samples
+        - fish diet samples
+        - water quality samples for measuring total Nitrogen and total Phosphorus
+    2. Samples must be properly prepared and delivered or shipped to NAMC
+    3. Sample metadata must be subimtted through NAMC's online submission portal
+    
 # Preparing samples for shipping
 ## Preparations in the Field
 1. Fix samples with 95% ethanol in the field.
@@ -35,7 +45,7 @@ slug: "SampleProcessing/HowToSendSamples"
 # Electronic submission of metadata
 1. Record complete information on where, when, and how the samples were collected.
     1. Submit information to our lab via our [INSTAR](http://instar.namc-usu.org) online tool.
-    1. The minimum information required include:
+    1. The minimum information required include (example is for benthic samples, metadata for other sample types varies):
             - Site ID
             - Sample date
             - Jar count
