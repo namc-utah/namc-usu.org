@@ -11,17 +11,21 @@ slug: "SampleProcessing/HowToSendSamples"
     1. Jar Numbers: Place a consecutive sample number on the lid of each jar, samples requiring more than one jar should be labeled as 1 of 2, 2 of 2 OR 1a, 1b, 1c, etc.. We will composite multiple jars (Jar 1 of 2 and Jar 2 of 2) into a single sample in the laboratory.
 1. Record complete information on where, when, and how the samples were collected.
     1. Submit information to our lab via our [INSTAR](http://instar.namc-usu.org) online tool.
-    1. The minimum information recommended is:
-        1. Site Name (specifying distances from tributaries, landmarks, cities, etc)
-        2. GPS coordinates (Latitude/Longitude or UTM format)
-        3. County/State
-        4. Sampling date
-        5. Sampling device (Surber, Kicknet, etc.)
-        6. Habitat sampled (riffle, pool, etc.)
-        7. Total area sampled in square meters or square feet
+    1. The minimum information required include:
+        1. Site ID
+        2. Sample date
+        3. Jar count
+        4. Field split
+        5. Latitude and Longitude
+        6. Waterbody name
+        7. Ecosystem: Habitat (stream, river, lake, wetland, mesocosm)
+        8. Sample Design (targeted, transect, proportional)
+        9. Sample Effort (area, time, not standardized)
+        10. Area or time (total area sampled, or time spent sampling)
+        11. Sampler type (eg., Surber, Kick, Hess)
     3. Additional physical and chemical data collection are encouraged in the field, but do not need to be provided during sample submission unless additional reporting has been arranged prior.
 1. To prepare for shipping, follow the guidelines for Class 3 (Flammable Liquid) Hazardous Materials according to your chosen carrier’s guidelines. General guidelines are as follows:
-    1. Make sure the lids are on tightly. To be careful, you may wrap duct tape around the lids.
+    1. Make sure the lids are on tightly. To be careful, you may wrap ele tape around the lids.
     2. Place individual samples in ziploc baggies or other secondary sealed containers lined with absorbent material (such as paper towels) for support, cushion, and to absorb any leaks.
     3. Place data sheets, including forms generated in the online submission, and any other paper documentation in a separate zip-lock plastic bag.
     4. As specified by your carrier, mark package as Hazardous Material and fill out a Shipping Declaration for Dangerous Goods form to accompany the package (keep a copy for your records).
