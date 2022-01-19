@@ -17,7 +17,7 @@ slug: "SampleProcessing/HowToSendSamples"
 2. Follow the guidelines for Class 3 (Flammable Liquid) Hazardous Materials according to your chosen carrier's guidelines.  If one does not have a hazardous materials permit, samples can be shipped overnight in water provided the samples were in ethanol prior to shipment.  If shipping in water, one must let NAMC know shipping. 
 3. General packaging guidelines are as follows:
 
-    - Send an email to Andrew Caudillo (Andrew.caudillo@usu.edu) to inform NAMC that one is shipping samples.
+    - Send an email to [Andrew Caudillo](Andrew.caudillo@usu.edu) to inform NAMC that one is shipping samples.
     - Ensure lids are on tightly. Wrapping electric tape around the lids ensures less liquid will leak during transport.
     - Place individual samples in watertight or other secondary sealed containers lined with absorbent material (such as paper towels) for support, cushion, and to         absorb any leaks. 
     - Mark package as Hazardous Material and fill out a Shipping Declaration for Dangerous Goods form to accompany the package (and keep a copy for records).
