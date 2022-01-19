@@ -61,6 +61,5 @@ slug: "SampleProcessing/HowToSendSamples"
     1. Additional physical and chemical data collection are encouraged in the field, but do not need to be provided during sample submission unless additional reporting has been arranged prior.
 
     1. Visit www.instar.namc-usu.org for any clarification on these instructions or the submission process.
-![image](https://user-images.githubusercontent.com/69914403/150181425-6b1826f5-0d6f-4924-ba7d-596a4a97e757.png)
 
     1. NAMC will send email notification when samples arrive.
