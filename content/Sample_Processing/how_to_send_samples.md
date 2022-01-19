@@ -17,7 +17,7 @@ slug: "SampleProcessing/HowToSendSamples"
 ## Preparations in the Field
 1. Fix samples with 95% ethanol in the field.
 1. Label samples inside and outside.
-    - Internal labels: Pencil on waterproof paper (such as “Rite-in-the-Rain"). Do **NOT** use pen.
+    - Internal labels: Pencil on waterproof paper (such as “Rite-in-the-Rain"). Do _not_ use pen.
     - External labels: Pencil on paper or masking tape works well for outside labels.
     - Information: Both internal and external labels should, at a minimum, include information about the location of the sample and the date of sampling.
     - Jar Numbers: Place a consecutive sample number on the lid of each jar, samples requiring more than one jar should be labeled as 1 of 2, 2 of 2 or 1a, 1b, 1c,         etc.. NAMC will composite multiple jars (Jar 1 of 2 and Jar 2 of 2) into a single sample in the laboratory.
