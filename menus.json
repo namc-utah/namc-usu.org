@@ -32,6 +32,10 @@
         {
           "label": "Results and Reports",
           "url": "/SampleProcessing/ResultsAndReports"
+        },
+        {
+          "label": "Sample Metadata Definitions",
+          "url": "/SampleProcessing/SampleMetadata"
         }
       ]
     },

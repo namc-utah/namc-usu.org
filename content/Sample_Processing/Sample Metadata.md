@@ -1,6 +1,6 @@
 ---
 title: Sample Metadata Definitions
-slug: Sample_Processing?Sample Metadata
+slug: SampleProcessing/SampleMetadata
 ---
 
 
