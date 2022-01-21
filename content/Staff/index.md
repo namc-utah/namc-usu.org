@@ -80,13 +80,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Heinsohn.jpg" className="profilePic" alt="Heinsohn" />
-
-#### Taylor Heinsohn
-* Psychology
-* Since 2019
---------------
-
 <img src="/images/staff/Austin.jpg" className="profilePic" alt="Austin" />
 
 #### Jena Austin
@@ -112,14 +105,6 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Page.jpg" className="profilePic" alt="Page" />
-
-#### Maycee Page
-* Fisheries and Aquatic Science
-* Since 2020
-
---------------
-
 <img src="/images/staff/Peterson.jpg" className="profilePic" alt="Peterson" />
 
 #### Ashley Peterson
@@ -128,26 +113,10 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Hancey.jpg" className="profilePic" alt="Hancey" />
-
-#### Kayla Hancey
-* Ecology/Biodiversity
-* Since 2020
-
---------------
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Johnston" />
 
 #### Sandra Johnston
 * Management/Restoration of Aquatic Ecosystems
-* Since 2021
-
---------------
-
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Shipley" />
-
-#### Talease Shipley
-* Biology
 * Since 2021
 
 --------------
@@ -217,7 +186,7 @@ Since 2019
 
 #### Carlos Vasquez
 * Geology
-* Since 2021
+* Volunteer Since 2021
 
 --------------
 
