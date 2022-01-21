@@ -272,6 +272,14 @@ Since 2019
 <img src="/images/staff/Torres.jpeg" className="profilePic" alt="Torres" />
 
 #### Helani Torres 
+* Conservation and Restoration Ecology
+* Since 2021
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Torres" />
+
+#### Grace Greenelsh
 * Since 2021
 
 --------------
