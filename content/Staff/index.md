@@ -269,7 +269,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Torres.png" className="profilePic" alt="Torres" />
+<img src="/images/staff/Torres.jpeg" className="profilePic" alt="Torres" />
 
 #### Helani Torres 
 * Since 2021
