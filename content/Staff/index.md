@@ -44,8 +44,6 @@ slug: "MeetTheStaff"
 #### Andrew Caudillo
 
 * Lab Manager, Taxonomist
-* BS Ecology, Evolution, Organismal Biology
-* California State University Monterey Bay
 * MS Environmental Science
 * California State University Monterey Bay
 * Since 2020
