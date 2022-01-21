@@ -287,5 +287,5 @@ Since 2019
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McConkie" />
 
 #### Sammy McConkie
-* Since 2021
+* Since 2022
 
