@@ -88,14 +88,12 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
 #### Garret Haeck
 Biology
 Since 2019
 
 --------------
-
 
 <img src="/images/staff/Choate.jpg" className="profilePic" alt="Choate" />
 
@@ -145,7 +143,6 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Calwell" />
 
 #### Tim Cromwell
@@ -153,7 +150,6 @@ Since 2019
 * Since 2021
 
 --------------
-
 
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Ashby" />
 
@@ -163,7 +159,6 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
 
 #### Lauren Anderson
@@ -171,7 +166,6 @@ Since 2019
 * Since 2021
 
 --------------
-
 
 <img src="/images/staff/Shamo.jpg" className="profilePic" alt="Shamo" />
 
@@ -181,7 +175,6 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/Vasquez.jpg" className="profilePic" alt="Vasquez" />
 
 #### Carlos Vasquez
@@ -189,7 +182,6 @@ Since 2019
 * Volunteer Since 2021
 
 --------------
-
 
 <img src="/images/staff/Jensen.jpg" className="profilePic" alt="Jensen" />
 
@@ -199,7 +191,6 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Spratling" />
 
 #### Ian Spratling
@@ -207,7 +198,6 @@ Since 2019
 * Since 2021
 
 --------------
-
 
 <img src="/images/staff/Lipscomb.jpg" className="profilePic" alt="Lipscomb" />
 
@@ -217,7 +207,6 @@ Since 2019
 
 --------------
 
-
 <img src="/images/staff/Santini.jpg" className="profilePic" alt="Santini" />
 
 #### Isabelle Santini
@@ -225,7 +214,6 @@ Since 2019
 * Since 2021
 
 --------------
-
 
 <img src="/images/staff/Young.jpg" className="profilePic" alt="Young" />
 
@@ -267,4 +255,29 @@ Since 2019
 
 --------------
 
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Jacobson" />
+
+#### Kenadee Jacobson
+* Since 2021
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Harris" />
+
+#### Brooklynn Harris
+* Since 2021
+
+--------------
+
+<img src="/images/staff/Torres.png" className="profilePic" alt="Torres" />
+
+#### Helani Torres 
+* Since 2021
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McConkie" />
+
+#### Sammy McConkie
+* Since 2021
 
