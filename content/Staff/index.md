@@ -223,10 +223,10 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Watson" />
+<img src="/images/staff/Watson.jpeg" className="profilePic" alt="Watson" />
 
 #### Annie Watson
-* Undeclared
+* Biochemistry
 * Since 2021
 
 --------------
@@ -277,9 +277,11 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Torres" />
+<img src="/images/staff/Greenelsh.jpeg" className="profilePic" alt="Greenelsh" />
 
 #### Grace Greenelsh
+* Wildlife Ecology and Management
+* Minors in Biolgy and Statistics
 * Since 2022
 
 --------------
@@ -287,5 +289,12 @@ Since 2019
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McConkie" />
 
 #### Sammy McConkie
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Gunderson" />
+
+#### Nakaila Gunderson
 * Since 2022
 
