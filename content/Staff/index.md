@@ -111,7 +111,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Johnston" />
+<img src="/images/staff/Johnston.jpg" className="profilePic" alt="Johnston" />
 
 #### Sandra Johnston
 * Management/Restoration of Aquatic Ecosystems
