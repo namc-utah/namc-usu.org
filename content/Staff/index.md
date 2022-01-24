@@ -119,14 +119,6 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Estes" />
-
-#### Julie Estes
-* Cellular/Molecular Biology
-* Since 2021
-
---------------
-
 <img src="/images/staff/MacInnes.jpg" className="profilePic" alt="MacInnes" />
 
 #### Hannah MacInnes
