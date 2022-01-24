@@ -199,14 +199,6 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Santini.jpg" className="profilePic" alt="Santini" />
-
-#### Isabelle Santini
-* Civil Engineering
-* Since 2021
-
---------------
-
 <img src="/images/staff/Young.jpg" className="profilePic" alt="Young" />
 
 #### Jared Young
