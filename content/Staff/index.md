@@ -159,7 +159,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Anderson.jpeg" className="profilePic" alt="Anderson" />
+<img src="/images/staff/Anderson.jpg" className="profilePic" alt="Anderson" />
 
 #### Lauren Anderson
 * Wildlife Ecology
@@ -191,7 +191,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Spratling.jpeg" className="profilePic" alt="Spratling" />
+<img src="/images/staff/Spratling.jpg" className="profilePic" alt="Spratling" />
 
 #### Ian Spratling
 * Rangeland Ecology Management
