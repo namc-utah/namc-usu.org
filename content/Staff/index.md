@@ -89,6 +89,7 @@ slug: "MeetTheStaff"
 --------------
 
 <img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
+
 #### Garret Haeck
 * Biology
 * Since 2019
