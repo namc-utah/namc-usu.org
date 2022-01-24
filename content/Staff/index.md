@@ -223,7 +223,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Watson.jpeg" className="profilePic" alt="Watson" />
+<img src="/images/staff/Watson.jpg" className="profilePic" alt="Watson" />
 
 #### Annie Watson
 * Biochemistry
@@ -277,7 +277,7 @@ Since 2019
 
 --------------
 
-<img src="/images/staff/Greenelsh.jpeg" className="profilePic" alt="Greenelsh" />
+<img src="/images/staff/Greenelsh.jpg" className="profilePic" alt="Greenelsh" />
 
 #### Grace Greenelsh
 * Wildlife Ecology and Management
