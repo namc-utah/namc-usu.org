@@ -83,15 +83,15 @@ slug: "MeetTheStaff"
 <img src="/images/staff/Austin.jpg" className="profilePic" alt="Austin" />
 
 #### Jena Austin
-Conservation and Restoration Ecology
-Since 2019
+* Conservation and Restoration Ecology
+* Since 2019
 
 --------------
 
 <img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
 #### Garret Haeck
-Biology
-Since 2019
+* Biology
+* Since 2019
 
 --------------
 
