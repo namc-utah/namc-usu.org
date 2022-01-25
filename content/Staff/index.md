@@ -247,7 +247,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Harris" />
+<img src="/images/staff/Harris.jpg" className="profilePic" alt="Harris" />
 
 #### Brooklynn Harris
 * Since 2021
