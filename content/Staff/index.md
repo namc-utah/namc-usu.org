@@ -243,6 +243,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Jacobson" />
 
 #### Kenadee Jacobson
+* Biochemistry
 * Since 2021
 
 --------------
