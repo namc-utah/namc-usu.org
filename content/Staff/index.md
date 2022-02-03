@@ -251,6 +251,8 @@ slug: "MeetTheStaff"
 <img src="/images/staff/Harris.jpg" className="profilePic" alt="Harris" />
 
 #### Brooklynn Harris
+* Conservation and Restoration Ecology
+* Minor in Chemistry
 * Since 2021
 
 --------------
