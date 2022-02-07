@@ -28,7 +28,7 @@ slug: "MeetTheStaff"
 
 ## Taxonomists
 
-<img src="/images/staff/matt_tagg.jpeg" className="profilePic" alt="Matt Tagg" />
+<img src="/images/staff/Tagg.jpg" className="profilePic" alt="Matt Tagg" />
 
 #### Matt Tagg
 
