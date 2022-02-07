@@ -15,9 +15,9 @@ slug: "MeetTheStaff"
 
 ## Researchers
 
-<img src="/images/staff/jennifer_courtright.jpeg" className="profilePic" alt="Jennifer Courtright" />
+<img src="/images/staff/jennifer_courtright.jpeg" className="profilePic" alt="Jennifer Courtwright" />
 
-#### Jennifer Courtright
+#### Jennifer Courtwright
 
 * Aquatic Ecologist/Program Manager
 * MS Biology (Stream Ecology)
