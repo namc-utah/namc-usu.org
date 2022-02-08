@@ -284,5 +284,6 @@ slug: "MeetTheStaff"
 <img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
 
 #### Nakaila Gunderson
+* Wildlife Ecology and Management
 * Since 2022
 
