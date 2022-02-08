@@ -277,6 +277,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/McConkie.jpg" className="profilePic" alt="McConkie" />
 
 #### Sammy McConkie
+* Wildlife Ecology and Management
 * Since 2022
 
 --------------
