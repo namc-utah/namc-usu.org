@@ -274,14 +274,14 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McConkie" />
+<img src="/images/staff/McConkie.jpg" className="profilePic" alt="McConkie" />
 
 #### Sammy McConkie
 * Since 2022
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Gunderson" />
+<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
 
 #### Nakaila Gunderson
 * Since 2022
