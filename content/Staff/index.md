@@ -224,7 +224,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Jefferson" />
+<img src="/images/staff/Jefferson.jpg" className="profilePic" alt="Jefferson" />
 
 #### Samuel Jefferson
 * Biology
