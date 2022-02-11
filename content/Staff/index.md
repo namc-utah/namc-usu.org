@@ -184,14 +184,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Spratling.jpg" className="profilePic" alt="Spratling" />
-
-#### Ian Spratling
-* Rangeland Ecology Management
-* Since 2021
-
---------------
-
 <img src="/images/staff/Lipscomb.jpg" className="profilePic" alt="Lipscomb" />
 
 #### Dylan Lipscomb
@@ -236,14 +228,6 @@ slug: "MeetTheStaff"
 
 #### Alisa Harrison
 * Plant Science
-* Since 2021
-
---------------
-
-<img src="/images/staff/Jacobson.jpg" className="profilePic" alt="Jacobson" />
-
-#### Kenadee Jacobson
-* Biochemistry
 * Since 2021
 
 --------------
