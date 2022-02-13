@@ -1,6 +1,6 @@
 ---
 title: Flaming Gorge Dam
-slug: "Projects/Project5"
+slug: "Projects/CurrentProjects/Project5"
 ---
 
 Macroinvertebrate Oviposition (egg-laying) Habitat Preferences on the Green River below Flaming Gorge Dam

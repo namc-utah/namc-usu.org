@@ -1,6 +1,6 @@
 ---
 title: Development of a Bureau of Land Management National Aquatic Monitoring Framework
-slug: "Projects/Project1"
+slug: "Projects/CurrentProjects/Project1"
 ---
 
 # Collaborators

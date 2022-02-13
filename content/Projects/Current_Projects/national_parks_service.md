@@ -1,6 +1,6 @@
 ---
 title: Contemporary and historic comparisons of aquatic macroinvertebrates in the regulated Green River and unregulated Yampa River within Dinosaur National Monument
-slug: "Projects/Project6"
+slug: "Projects/CurrentProjects/Project6"
 ---
 
 # Collaborators

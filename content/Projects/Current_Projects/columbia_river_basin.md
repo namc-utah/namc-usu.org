@@ -1,6 +1,6 @@
 ---
 title: Environmental drivers of macroinvertebrate stability and persistence within the interior Columbia River Basin, USA
-slug: "Projects/Project4"
+slug: "Projects/CurrentProjects/Project4"
 ---
 
 # Collaborators

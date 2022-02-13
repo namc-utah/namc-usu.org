@@ -1,6 +1,6 @@
 ---
 title: Towards an understanding of Bonneville cutthroat trout responses to riparian grazing exclosures
-slug: "Projects/Project3"
+slug: "Projects/CurrentProjects/Project3"
 ---
 
 # Collaborators
