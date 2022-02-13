@@ -11,7 +11,7 @@ slug: "SampleProcessing/ResultsAndReports"
 
 [Report Metadata](/docs/Metadata_accompanyingPDF2.pdf)
 
-## Data Owneership Policy
+## Data Ownership Policy
 
 Our policy on data ownership is that unless you tell us in writing that the data generated from our field or laboratory work are proprietary we will make these data available to anyone who asks for them as soon as they have been checked and entered into our computer system. We believe that to enhance biomonitoring procedures and the quality of our nation's waters we should work cooperatively. We believe this means we should openly share ideas and data.
 
