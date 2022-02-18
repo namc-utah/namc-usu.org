@@ -136,7 +136,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Calwell" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Cromwell" />
 
 #### Tim Cromwell
 * Conservation and Restoration Ecology
@@ -274,14 +274,14 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Wesemann" />
 
 #### Eliza Wesemann
 * Since 2022
 
 --------------
 
-<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Ford" />
 
 ####Anders Ford
 * Conservation and Restoration Ecology
