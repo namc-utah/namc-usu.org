@@ -37,4 +37,4 @@ The Southwest Association of Freshwater Invertebrate Taxonomists (SAFIT) group i
 
 * Hilsenhoff Biotic Index
 
-An invertebrate’s tolerance to pollution in a stream can be measured via the [Hilsenhoff Biotic Index (HBI)](http://cfb.unh.edu/StreamKey/html/biotic_indicators/indices/Hilsenhoff.html). The scores are based on a 0 to 10 scale, where 1 is very intolerant and 10 is very tolerant. Intolerant taxa are among the best indicators of stream health, as they are typically abundant in clean water.
+An invertebrate’s tolerance to pollution in a stream can be measured via the [Hilsenhoff Biotic Index (HBI)](http://cfb.unh.edu/StreamKey/html/biotic_indicators/indices/Hilsenhoff.html). The scores are based on a 0 to 10 scale, where 0 is very intolerant and 10 is very tolerant. Intolerant taxa are among the best indicators of stream health, as they are typically abundant in clean water.
