@@ -33,7 +33,7 @@ slug: "Links"
 
 * SAFIT II
 
-The Southwest Association of Freshwater Invertebrate Taxonomists (SAFIT) group is the leading association that provides accepted taxonomic resolution for invertebrates found in the western united states. NAMC typically operates at [SAFIT level 2A](https://www.safit.org/level2a.php), which states that all organisms are identified to genus, with the exception of Chironomidae, which are left at subfamily. NAMC will externally identify midges to genus upon request, which rolls taxonomy to SAFIT 2.
+The Southwest Association of Freshwater Invertebrate Taxonomists (SAFIT) group is the leading association that provides accepted taxonomic resolution for invertebrates found in the Western United States. NAMC typically operates at [SAFIT level 2A](https://www.safit.org/level2a.php), which states that all organisms are identified to genus, with the exception of Chironomidae, which are left at subfamily. NAMC will externally identify midges to genus upon request, which rolls taxonomy to SAFIT 2.
 
 * Hilsenhoff Biotic Index
 
