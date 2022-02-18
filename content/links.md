@@ -31,10 +31,10 @@ slug: "Links"
 
 # Explanation of metrics
 
--SAFIT II
+* SAFIT II
 
 The Southwest Association of Freshwater Invertebrate Taxonomists (SAFIT) group is the leading association that provides accepted taxonomic resolution for invertebrates found in the western united states. NAMC typically operates at [SAFIT level 2A](https://www.safit.org/level2a.php), which states that all organisms are identified to genus, with the exception of Chironomidae, which are left at subfamily. NAMC will externally identify midges to genus upon request, which rolls taxonomy to SAFIT 2.
 
--Hilsenhoff Biotic Index
+* Hilsenhoff Biotic Index
 
 An invertebrate’s tolerance to pollution in a stream can be measured via the [Hilsenhoff Biotic Index (HBI)](http://cfb.unh.edu/StreamKey/html/biotic_indicators/indices/Hilsenhoff.html). The scores are based on a 0 to 10 scale, where 1 is very intolerant and 10 is very tolerant. Intolerant taxa are among the best indicators of stream health, as they are typically abundant in clean water.
