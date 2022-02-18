@@ -272,3 +272,17 @@ slug: "MeetTheStaff"
 * Wildlife Ecology and Management
 * Since 2022
 
+--------------
+
+<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
+
+#### Eliza Wesemann
+* Since 2022
+
+--------------
+
+<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
+
+####Anders Ford
+* Conservation and Restoration Ecology
+* Since 2022
