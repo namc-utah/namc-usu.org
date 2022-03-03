@@ -120,26 +120,10 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/MacInnes.jpg" className="profilePic" alt="MacInnes" />
-
-#### Hannah MacInnes
-* Conservation and Restoration Ecology
-* Since 2021
-
---------------
-
 <img src="/images/staff/Burt.jpg" className="profilePic" alt="Burt" />
 
 #### Teressa Burt
 * Biology
-* Since 2021
-
---------------
-
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Cromwell" />
-
-#### Tim Cromwell
-* Conservation and Restoration Ecology
 * Since 2021
 
 --------------
@@ -254,14 +238,6 @@ slug: "MeetTheStaff"
 #### Grace Greenelsh
 * Wildlife Ecology and Management
 * Minors in Biolgy and Statistics
-* Since 2022
-
---------------
-
-<img src="/images/staff/McConkie.jpg" className="profilePic" alt="McConkie" />
-
-#### Sammy McConkie
-* Wildlife Ecology and Management
 * Since 2022
 
 --------------
