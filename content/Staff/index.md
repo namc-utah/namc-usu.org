@@ -3,7 +3,7 @@ title: Staff
 slug: "MeetTheStaff"
 ---
 
-## Director
+## Assistant Director
 
 <img src="/images/staff/trip_armstrong.jpeg" className="profilePic" alt="Trip" />
 
