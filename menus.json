@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "label": "data",
+      "url": "/data"
+    },    
+    {
       "label": "Sample Processing",
       "url": "/SampleProcessing",
       "children": [

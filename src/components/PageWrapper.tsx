@@ -11,13 +11,15 @@ export interface PageWrapperProps {
 
 const PageWrapper: React.FC<PageWrapperProps> = ({ children }: PageWrapperProps) => {
     return (
-        <ThemeProvider theme={outerTheme}>
-            <CssBaseline />
-            <Topbar />
-            {children}
-            {/* Footer */}
-            {/* <Footer /> */}
-        </ThemeProvider>
+        <div style={{ height: '100vh' }}>
+            <ThemeProvider theme={outerTheme}>
+                <CssBaseline />
+                <Topbar />
+                {children}
+                {/* Footer */}
+                {/* <Footer /> */}
+            </ThemeProvider>
+        </div>
     )
 }
 

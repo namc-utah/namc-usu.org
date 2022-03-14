@@ -8,7 +8,7 @@
     "gatsby"
   ],
   "engines": {
-    "node": ">=16.13.0"
+    "node": ">=14 <15"
   },
   "scripts": {
     "develop": "gatsby develop",
@@ -35,15 +35,18 @@
     "@mui/icons-material": "^5.0.5",
     "@mui/material": "^5.0.6",
     "@mui/styled-engine": "^5.0.2",
+    "@namcbugdb/react-public-map": "^1.0.4",
     "gatsby": "^4.1.0",
     "gatsby-plugin-react-helmet": "^5.5.0",
     "gatsby-plugin-slug": "^2.0.0",
     "gatsby-source-filesystem": "^4.1.0",
     "gatsby-transformer-remark": "^5.1.0",
     "loglevel": "^1.8.0",
+    "notistack": "^2.0.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
+    "react-map-gl": "^6.1.18",
     "rehype-parse": "^8.0.3",
     "rehype-react": "^7.0.3",
     "typescript": "^3.8.3",
