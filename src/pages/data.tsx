@@ -1,8 +1,6 @@
 import * as React from 'react'
-import PageFullWidth from '../components/PageFullWidth'
+import PageWrapper from '../components/PageWrapper'
 import { PublicMapWrapped } from '@namcbugdb/react-public-map'
-import { RecoilRoot } from 'recoil'
-import { SnackbarProvider } from 'notistack'
 
 // THIS FIX IS NECESSARY FOR PRODUCTION AND WEBPACK!!!!
 // https://docs.mapbox.com/mapbox-gl-js/api/#transpiling-v2
@@ -14,16 +12,14 @@ import { SnackbarProvider } from 'notistack'
 // markup
 const NAMCMap: React.FC = () => {
     return (
-        <PageFullWidth title="NAMC Map">
-            <RecoilRoot>
-                <SnackbarProvider>
-                    <PublicMapWrapped
-                        apiUrl={process.env.GATSBY_PUBLICMAP_API as string}
-                        mapboxToken={process.env.GATSBY_MAPBOX_TOKEN as string}
-                    />
-                </SnackbarProvider>
-            </RecoilRoot>
-        </PageFullWidth>
+        <PageWrapper fullHeight>
+            <div style={{ flex: 1, margin: '1rem' }}>
+                <PublicMapWrapped
+                    apiUrl={process.env.GATSBY_PUBLICMAP_API as string}
+                    mapboxToken={process.env.GATSBY_MAPBOX_TOKEN as string}
+                />
+            </div>
+        </PageWrapper>
     )
 }
 

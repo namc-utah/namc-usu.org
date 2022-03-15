@@ -25,20 +25,17 @@ const Topbar: React.FC<TopbarProps> = ({ children }: TopbarProps) => {
         <>
             <Box sx={{ background: '#2C387E', color: 'white' }}>
                 <Container maxWidth="md" sx={{ display: 'flex' }}>
-                    <Box sx={{ flex: '0 0 100px' }}>
-                        <img src={withPrefix('/images/logos/namc_white.svg')} style={{ margin: 15, maxHeight: 100 }} />
+                    <Box sx={{ flex: '1 1 10%' }}>
+                        <img src={withPrefix('/images/logos/namc_white.svg')} style={{ margin: 15, maxHeight: 50 }} />
                     </Box>
-                    <Typography variant="h4" color="inherit" sx={{ margin: 2 }}>
+                    <Typography variant="h4" color="inherit" sx={{ margin: 2, flex: '1 1 70%' }}>
                         National Aquatic Monitoring Center
                     </Typography>
                     <FlexSpacer />
-                    <Box sx={{ flex: '0 0 10%' }}>
-                        <img
-                            src={withPrefix('/images/logos/blm.svg')}
-                            style={{ maxWidth: '100%', margin: 15, maxHeight: 100 }}
-                        />
+                    <Box sx={{ flex: '1 1 10%', margin: '0 auto 0 auto' }}>
+                        <img src={withPrefix('/images/logos/blm.svg')} style={{ margin: 15, maxHeight: 100 }} />
                     </Box>
-                    <Box sx={{ flex: '0 0 10%' }}>
+                    <Box sx={{ flex: '1 1 10%' }}>
                         <img
                             src={withPrefix('/images/logos/USU_White.png')}
                             style={{ maxWidth: '100%', margin: 15, maxHeight: 100 }}
