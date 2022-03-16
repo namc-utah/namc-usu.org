@@ -1,6 +1,6 @@
 {
   "name": "namc-website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "NAMC Website",
   "author": "Matt Reimer",
@@ -8,7 +8,7 @@
     "gatsby"
   ],
   "engines": {
-    "node": ">=14 <15"
+    "node": ">=16 <17"
   },
   "scripts": {
     "develop": "gatsby develop",
