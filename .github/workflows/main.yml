@@ -8,9 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
+    steps:  
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
+        env:
+          GATSBY_MAPBOX_TOKEN: ${{ secrets.GATSBY_MAPBOX_TOKEN }}
+          GATSBY_PUBLICMAP_API: ${{ secrets.GATSBY_PUBLICMAP_API }}
         with:
           access-token: x-access-token:${{ secrets.GITHUB_TOKEN }}
           deploy-branch: gh-pages
