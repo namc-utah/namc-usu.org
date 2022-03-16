@@ -19,6 +19,7 @@ module.exports = {
         'gatsby-plugin-react-helmet',
         'gatsby-plugin-slug',
         'gatsby-transformer-remark',
+        'gatsby-plugin-workerize-loader',
         {
             resolve: `gatsby-source-filesystem`,
             options: {

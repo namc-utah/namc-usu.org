@@ -22,7 +22,7 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],  
+  ],
   "devDependencies": {
     "@types/mapbox-gl": "^2.6.1",
     "@typescript-eslint/eslint-plugin": "^2.28.0",
@@ -34,7 +34,9 @@
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "prettier": "^2.0.5"
+    "gatsby-plugin-workerize-loader": "^2.1.0",
+    "prettier": "^2.0.5",
+    "worker-loader": "^3.0.8"
   },
   "dependencies": {
     "@emotion/react": "^11.5.0",

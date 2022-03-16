@@ -3,6 +3,13 @@ import PageWrapper from '../components/PageWrapper'
 import { PublicMapWrapped } from '@namcbugdb/react-public-map'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
+// THIS FIX IS NECESSARY FOR PRODUCTION AND WEBPACK!!!!
+// https://docs.mapbox.com/mapbox-gl-js/api/#transpiling-v2
+// https://github.com/mapbox/mapbox-gl-js/issues/10173
+import mapboxgl from 'mapbox-gl/dist/mapbox-gl'
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default
+
 const NAMCMap: React.FC = () => {
     return (
         <PageWrapper fullHeight>
