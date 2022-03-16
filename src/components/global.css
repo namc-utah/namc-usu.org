@@ -16,5 +16,12 @@ html, body, #___gatsby, #gatsby-focus-wrapper {
 
 body {
   margin: 0px;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
 
+a, a:visited, .link {
+  color: #1976d2; /* match MUI buttons */
+  text-decoration: underline;
+  cursor: pointer;
 }
