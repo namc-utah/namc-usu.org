@@ -11,7 +11,11 @@ import { PublicMapWrapped } from '@namcbugdb/react-public-map'
 
 // markup
 const NAMCMap: React.FC = () => {
-    console.log('TEST env', process.env)
+    console.log('TEST env', {
+        GATSBY_MAPBOX_TOKEN: process.env.GATSBY_MAPBOX_TOKEN,
+        GATSBY_PUBLICMAP_API: process.env.GATSBY_PUBLICMAP_API,
+        GATSBY_VERSION: process.env.GATSBY_VERSION
+    })
     return (
         <PageWrapper fullHeight>
             <div style={{ flex: 1, margin: '1rem' }}>
