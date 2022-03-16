@@ -11,6 +11,7 @@ import { PublicMapWrapped } from '@namcbugdb/react-public-map'
 
 // markup
 const NAMCMap: React.FC = () => {
+    console.log('TEST env', process.env)
     return (
         <PageWrapper fullHeight>
             <div style={{ flex: 1, margin: '1rem' }}>
