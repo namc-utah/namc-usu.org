@@ -4,23 +4,19 @@ on:
   push:
     branches:
       - master
+env:
+  envkey_GATSBY_MAPBOX_TOKEN: ${{ secrets.GATSBY_MAPBOX_TOKEN }}
+  envkey_GATSBY_PUBLICMAP_API: ${{ secrets.GATSBY_PUBLICMAP_API }}
+  envkey_GATSBY_VERSION: $npm_package_version
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:  
       - uses: actions/checkout@v1
-      - name: Create .env file
-        uses: SpicyPizza/create-envfile@v1
-        with:
-          envkey_GATSBY_MAPBOX_TOKEN: ${{ secrets.GATSBY_MAPBOX_TOKEN }}
-          envkey_GATSBY_PUBLICMAP_API: ${{ secrets.GATSBY_PUBLICMAP_API }}
-          envkey_GATSBY_VERSION: $npm_package_version
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: x-access-token:${{ secrets.GITHUB_TOKEN }}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
-        env:
-          GATSBY_MAPBOX_TOKEN: 
-          GATSBY_PUBLICMAP_API:
+
