@@ -1680,9 +1680,9 @@
   integrity sha512-9gwhYnkTNuYZ+etCtM4T8gjpZ0SWSXbzQxY34UjSS+dt3C/UnbX0J22tMahp/9Z1yCa9pihtXrkD+nO2xn7nVQ==
 
 "@aws-sdk/types@^3.1.0":
-  version "3.54.0"
-  resolved "https://registry.yarnpkg.com/@aws-sdk/types/-/types-3.54.0.tgz#c15a821d1926c5ec9b9bd5e643d376f907b84b95"
-  integrity sha512-Jp2MHXnrM0pk0RIoSl5AHFm7TBk+7b8HTIcQ2X/6kGwwwnWw9qlg9ZFziegJTNTLJ4iVgZjz/yMlEvgrp7z9CA==
+  version "3.54.1"
+  resolved "https://registry.yarnpkg.com/@aws-sdk/types/-/types-3.54.1.tgz#2e0337249ee7ddb79b5054858f68c49e7208d910"
+  integrity sha512-7JgapyqowaBqhX80ZDxumeLhnyS3Up5ZXn2MljiBwJ2B5mAGomcfFDMDvViJfbKO6pKakopp0iXtPTulH6sIgw==
 
 "@aws-sdk/url-parser-native@3.6.1":
   version "3.6.1"
@@ -3874,22 +3874,22 @@
     lodash "^4.17.15"
     numeral "^2.0.6"
 
-"@namcbugdb/react-common@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@namcbugdb/react-common/-/react-common-1.0.7.tgz#df763af116fc6e66f8436be8e2349c3e95f274fd"
-  integrity sha512-6yjtcwEFhXLazvhLu4ht0KAGgMSYYjB5xD1K9xbpZ/odAxxThbV0h65BUFMDb5wfLiwA01oMpfMDrDXQAg+JXg==
+"@namcbugdb/react-common@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@namcbugdb/react-common/-/react-common-1.0.8.tgz#cc07dc7c634a92ea99053624fb385db674cd2d1b"
+  integrity sha512-FOmIZ23dZfJqsDYajJQS4/0HDZ5fsSydbKOzqr2Hwt/5S+fL02xpcuTA255f8MxI08sIpE13KU+qIhV+tMLmcA==
 
 "@namcbugdb/react-public-map@^1.0.4":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@namcbugdb/react-public-map/-/react-public-map-1.0.11.tgz#85c6a3aece4f8052700d2cfa590d32f9681f196f"
-  integrity sha512-S97UsZ2yo0xCZAuGOYaAeckklkNqUg1s6PE/9xCigyRzr+aUYM7pj+xO65TIam6w2Y8RdOcK/gpb5UmZAtyhPw==
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/@namcbugdb/react-public-map/-/react-public-map-1.0.12.tgz#2f9575c5ab99dcbfa861c091a13ca96c7e0d553b"
+  integrity sha512-B+2LqDI4gwImDedXsk4mUeBuIwETwiG83D83K85P2nviQ1YMVNsacQgPgTmMzBwIrWsOreZwNgTRJr1cxAPj0A==
   dependencies:
     "@emotion/react" "^11.4.1"
     "@emotion/styled" "^11.3.0"
     "@mui/icons-material" "^5.0.5"
     "@mui/material" "^5.0.4"
     "@namcbugdb/common" "^1.1.19"
-    "@namcbugdb/react-common" "^1.0.7"
+    "@namcbugdb/react-common" "^1.0.8"
     "@turf/turf" "^6.5.0"
     autosuggest-highlight "^3.2.0"
     aws-amplify "^4.3.5"
