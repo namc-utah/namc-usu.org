@@ -9,9 +9,9 @@ import { PublicMapWrapped } from '@namcbugdb/react-public-map'
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 // mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default
 
-// markup
 const NAMCMap: React.FC = () => {
     console.log('TEST env', {
+        Something: 'something',
         GATSBY_MAPBOX_TOKEN: process.env.GATSBY_MAPBOX_TOKEN,
         GATSBY_PUBLICMAP_API: process.env.GATSBY_PUBLICMAP_API,
         GATSBY_VERSION: process.env.GATSBY_VERSION

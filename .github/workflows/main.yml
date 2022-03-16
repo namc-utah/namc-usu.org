@@ -5,19 +5,23 @@ on:
     branches:
       - master
 
-env:
-  GATSBY_MAPBOX_TOKEN: ${{ secrets.GATSBY_MAPBOX_TOKEN }}
-  GATSBY_PUBLICMAP_API: ${{ secrets.GATSBY_PUBLICMAP_API }}
-  GATSBY_VERSION: $npm_package_version
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:  
       - uses: actions/checkout@v1
+      - name: Run env file
+        run: |
+          pwd
+          chmod +x ./scripts/ghPagesBuild.sh
+          ./scripts/ghPagesBuild.sh
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: x-access-token:${{ secrets.GITHUB_TOKEN }}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
-
+        env:
+          GATSBY_MAPBOX_TOKEN: ${{ secrets.GATSBY_MAPBOX_TOKEN }}
+          GATSBY_PUBLICMAP_API: ${{ secrets.GATSBY_PUBLICMAP_API }}
+          GATSBY_VERSION: $npm_package_version
