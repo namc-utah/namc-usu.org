@@ -1,4 +1,5 @@
 import * as React from 'react'
+import { Helmet } from 'react-helmet'
 import PageWrapper from '../components/PageWrapper'
 import { PublicMapWrapped } from '@namcbugdb/react-public-map'
 import 'mapbox-gl/dist/mapbox-gl.css'
@@ -12,14 +13,19 @@ mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worke
 
 const NAMCMap: React.FC = () => {
     return (
-        <PageWrapper fullHeight>
-            <div style={{ flex: 1, margin: '1rem' }}>
-                <PublicMapWrapped
-                    apiUrl={process.env.GATSBY_PUBLICMAP_API as string}
-                    mapboxToken={process.env.GATSBY_MAPBOX_TOKEN as string}
-                />
-            </div>
-        </PageWrapper>
+        <>
+            <Helmet>
+                <title>NAMC Map</title>
+            </Helmet>
+            <PageWrapper fullHeight>
+                <div style={{ flex: 1, margin: '1rem' }}>
+                    <PublicMapWrapped
+                        apiUrl={process.env.GATSBY_PUBLICMAP_API as string}
+                        mapboxToken={process.env.GATSBY_MAPBOX_TOKEN as string}
+                    />
+                </div>
+            </PageWrapper>
+        </>
     )
 }
 
