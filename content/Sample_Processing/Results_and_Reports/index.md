@@ -17,7 +17,7 @@ Our policy on data ownership is that unless you tell us in writing that the data
 
 Our policy is the same for the organisms we identify. We keep all of the organisms we identify and unless you tell us in writing not to, we will lend these organisms to anyone who requests them.
 
-Specific questions regarding this policy should be directed to Scott Miller, (435)797-2612.
+Specific questions regarding this policy should be directed to Trip Armstrong (trip.armstrong@usu.edu).
 
 ## Online Data Query
 
