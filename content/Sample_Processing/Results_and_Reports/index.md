@@ -23,6 +23,6 @@ Specific questions regarding this policy should be directed to Trip Armstrong (t
 
 TBA
 
-## Mapp Application for Freshwater Invertibrate Taxa
+## Map Application for Freshwater Invertebrate Taxa
 
 TBA
