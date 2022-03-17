@@ -5,6 +5,7 @@ slug: "MeetTheStaff"
 
 ## Director
 
+<img src="/images/staff/CPH-Mar2021-photo.jpg" className="profilePic" alt="Chuck" />
 
 #### Charles Hawkins
 
