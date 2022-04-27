@@ -110,14 +110,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Peterson.jpg" className="profilePic" alt="Peterson" />
-
-#### Ashley Peterson
-* Wildlife Ecology
-* Since 2020
-
---------------
-
 <img src="/images/staff/Johnston.jpg" className="profilePic" alt="Johnston" />
 
 #### Sandra Johnston
@@ -150,14 +142,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Shamo.jpg" className="profilePic" alt="Shamo" />
-
-#### Rachel Shamo
-* Biology
-* Since 2021
-
---------------
-
 <img src="/images/staff/Vasquez.jpg" className="profilePic" alt="Vasquez" />
 
 #### Carlos Vasquez
@@ -186,22 +170,6 @@ slug: "MeetTheStaff"
 
 #### Jared Young
 * Fisheries and Aquatic Science
-* Since 2021
-
---------------
-
-<img src="/images/staff/Watson.jpg" className="profilePic" alt="Watson" />
-
-#### Annie Watson
-* Biochemistry
-* Since 2021
-
---------------
-
-<img src="/images/staff/Briscoe.jpg" className="profilePic" alt="Briscoe" />
-
-#### Anya Briscoe
-* Undeclared
 * Since 2021
 
 --------------
