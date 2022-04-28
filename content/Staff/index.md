@@ -231,7 +231,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Ford" />
+<img src="/images/staff/Ford.jpg" className="profilePic" alt="Ford" />
 
 #### Anders Ford
 * Conservation and Restoration Ecology
