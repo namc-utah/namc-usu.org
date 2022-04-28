@@ -236,3 +236,18 @@ slug: "MeetTheStaff"
 #### Anders Ford
 * Conservation and Restoration Ecology
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Cano" />
+
+#### Raquel Cano
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Eborn" />
+
+#### Abe Eborn
+* Environmental Studies
+* Since 2022
