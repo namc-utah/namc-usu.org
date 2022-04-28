@@ -242,6 +242,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Cano" />
 
 #### Raquel Cano
+* Wildlife Ecology and Management
 * Since 2022
 
 --------------
