@@ -252,3 +252,24 @@ slug: "MeetTheStaff"
 #### Abe Eborn
 * Environmental Studies
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Briseno" />
+
+#### Raychel Briseno
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Yorgason" />
+
+#### Annika Yorgason
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Nickerson" />
+
+#### Arthur Nickerson
+* Since 2022
