@@ -70,15 +70,7 @@ slug: "MeetTheStaff"
 
 ## Technicians
 
-<img src="/images/staff/James.jpg" className="profilePic" alt="James" />
-
-#### Aletia James
-* Biology
-* Since 2018
-
---------------
-
-<img src="/images/staff/Elliot.jpg" className="profilePic" alt="James" />
+<img src="/images/staff/Elliot.jpg" className="profilePic" alt="Elliot" />
 
 #### Kristiana Elliot
 * ADVS Pre-Vet
@@ -94,18 +86,18 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
-
-#### Garret Haeck
-* Biology
-* Since 2019
-
---------------
-
 <img src="/images/staff/Choate.jpg" className="profilePic" alt="Choate" />
 
 ####  Casey Choate
 * Management/Restoration of Aquatic Ecosystems
+* Since 2019
+
+--------------
+
+<img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
+
+#### Garret Haeck
+* Biology
 * Since 2019
 
 --------------
@@ -130,14 +122,6 @@ slug: "MeetTheStaff"
 
 #### Ben Ashby
 * Biochemistry
-* Since 2021
-
---------------
-
-<img src="/images/staff/Anderson.jpg" className="profilePic" alt="Anderson" />
-
-#### Lauren Anderson
-* Wildlife Ecology
 * Since 2021
 
 --------------
