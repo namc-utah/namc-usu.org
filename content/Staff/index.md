@@ -231,7 +231,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Eborn" />
+<img src="/images/staff/Eborn.jpg" className="profilePic" alt="Eborn" />
 
 #### Abe Eborn
 * Environmental Studies
