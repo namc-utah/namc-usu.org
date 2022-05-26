@@ -271,6 +271,6 @@ slug: "MeetTheStaff"
 
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Walsh" />
 
-#### Maille walsh
+#### Maille Walsh
 * Biology
 * Since 2022
