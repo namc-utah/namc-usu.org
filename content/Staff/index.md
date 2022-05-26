@@ -257,3 +257,20 @@ slug: "MeetTheStaff"
 
 #### Arthur Nickerson
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Sparks" />
+
+#### Megan Sparks
+* Biology
+* Minors in Chemistry, Music, Mental Health Advocacy & Aware
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Walsh" />
+
+#### Maille walsh
+* Biology
+* Since 2022
