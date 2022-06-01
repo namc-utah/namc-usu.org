@@ -274,3 +274,11 @@ slug: "MeetTheStaff"
 #### Maille Walsh
 * Biology
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Bramson" />
+
+#### Annie Bramson
+* Elementary Education
+* Since 2022
