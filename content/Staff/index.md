@@ -239,7 +239,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Briseno" />
+<img src="/images/staff/Briseno.jpg" className="profilePic" alt="Briseno" />
 
 #### Raychel Briseno
 * Since 2022
@@ -269,7 +269,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Walsh" />
+<img src="/images/staff/Walsh.png" className="profilePic" alt="Walsh" />
 
 #### Maille Walsh
 * Biology
