@@ -282,3 +282,11 @@ slug: "MeetTheStaff"
 #### Annie Bramson
 * Elementary Education
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Bramson" />
+
+#### Kate Anderson
+* Ornamental Horticulture
+* * Since 2022
