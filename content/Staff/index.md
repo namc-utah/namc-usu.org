@@ -277,7 +277,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Bramson" />
+<img src="/images/staff/Bramson.jpg" className="profilePic" alt="Bramson" />
 
 #### Annie Bramson
 * Elementary Education
