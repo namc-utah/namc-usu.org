@@ -285,8 +285,15 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Bramson" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
 
 #### Kate Anderson
 * Ornamental Horticulture
-* * Since 2022
+* Since 2022
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Chaves" />
+
+#### Kevin Chaves
+* Management/Restoration of Aquatic Ecosystems
+* Since 2022
+
