@@ -291,6 +291,8 @@ slug: "MeetTheStaff"
 * Ornamental Horticulture
 * Since 2022
 
+--------------
+
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Chaves" />
 
 #### Kevin Chaves
