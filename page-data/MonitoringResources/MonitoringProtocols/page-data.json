@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-tsx",
+    "path": "/MonitoringResources/MonitoringProtocols",
+    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://namc-usu.org","title":"NAMC"}},"page":{"html":"<ul>\n<li><a href=\"/docs/NAMC-USU/assets/docs/im_oc_2011_044.pdf\">BLM Protocol</a></li>\n<li><a href=\"NAMC\">NAMC Protocol</a></li>\n<li><a href=\"WLSP\">Western Lake Protocol</a></li>\n</ul>","fields":{"slug":"/MonitoringResources/MonitoringProtocols"},"frontmatter":{"title":"Monitoring Protocols"}}},"pageContext":{"deIndexedSlug":"/MonitoringResources/MonitoringProtocols","slug":"/MonitoringResources/MonitoringProtocols"}},
+    "staticQueryHashes": []}

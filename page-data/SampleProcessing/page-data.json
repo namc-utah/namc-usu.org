@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-tsx",
+    "path": "/SampleProcessing",
+    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://namc-usu.org","title":"NAMC"}},"page":{"html":"","fields":{"slug":"/SampleProcessing"},"frontmatter":{"title":"Sample Processing"}}},"pageContext":{"deIndexedSlug":"/SampleProcessing","slug":"/SampleProcessing"}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-tsx",
+    "path": "/Quotes",
+    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://namc-usu.org","title":"NAMC"}},"page":{"html":"<p>For quotes regarding macroinvertebrate sample processing, O/E computation or other services please contact Trip Armstrong:</p>\n<p><a href=\"mailto:trip.armstrong@usu.edu\">trip.armstrong@usu.edu</a></p>\n<p>(760) 709-1210</p>","fields":{"slug":"/Quotes"},"frontmatter":{"title":"Quotes"}}},"pageContext":{"deIndexedSlug":"/Quotes","slug":"/Quotes"}},
+    "staticQueryHashes": []}

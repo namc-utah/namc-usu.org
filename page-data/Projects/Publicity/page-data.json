@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-template-tsx",
+    "path": "/Projects/Publicity",
+    "result": {"data":{"site":{"siteMetadata":{"siteUrl":"https://namc-usu.org","title":"NAMC"}},"page":{"html":"<h1>General</h1>\n<ul>\n<li><a href=\"/docs/publicity/VinsonEvanstonApril2008.pdf\">Mark's love for bugs</a></li>\n</ul>\n<h1>Special Topics</h1>","fields":{"slug":"/Projects/Publicity"},"frontmatter":{"title":"Publicity"}}},"pageContext":{"deIndexedSlug":"/Projects/Publicity","slug":"/Projects/Publicity"}},
+    "staticQueryHashes": []}

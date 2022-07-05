@@ -1,0 +1,16 @@
+/*! Hammer.JS - v2.0.7 - 2016-04-22
+ * http://hammerjs.github.io/
+ *
+ * Copyright (c) 2016 Jorik Tangelder;
+ * Licensed under the MIT license */
+
+/**
+   * splaytree v3.1.0
+   * Fast Splay tree for Node and browser
+   *
+   * @author Alexander Milevski <info@w8r.name>
+   * @license MIT
+   * @preserve
+   */
+
+// @license MIT
