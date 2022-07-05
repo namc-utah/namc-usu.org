@@ -260,7 +260,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Sparks" />
+<img src="/images/staff/Sparks.jpg" className="profilePic" alt="Sparks" />
 
 #### Megan Sparks
 * Biology
