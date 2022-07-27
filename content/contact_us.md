@@ -17,7 +17,7 @@ Logan, UT 84322-5210
 
 Phone: 510-334-9769
 
-## Director Contact Information
+## Assistant Director Contact Information
 
 Name: Trip Armstrong
 
