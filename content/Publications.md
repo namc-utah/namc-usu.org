@@ -2,7 +2,7 @@
 title: Publications
 slug: "Publications"
 ---
-##Publications
+## Publications
 
 Angradi, T.R. and M.R. Vinson. 1995. Aquatic monitoring on national forests and Bureau of Land Management Districts. Bulletin of the North American Benthological Society 12:389-398.
 
