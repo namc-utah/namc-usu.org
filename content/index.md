@@ -3,7 +3,9 @@
 
 ## Our Mission
 
-The National Aquatic Monitoring Center is a cooperative venture between Utah State University and the U.S. Bureau of Land Management. Our purpose is toencourage and foster scientifically sound watershed monitoring programs on public lands. Our goals are to increase the consistency and quality of aquatic resource assessments and provide clear, accurate, and timely information to resource managers and the public. A primary focus at our laboratory is the processing of aquatic invertebrate samples. Please contact us if you are in need of our assistance.
+Our mission is to develop scientifically sound methods to assess ecological integrity and transfer that knowledge to stakeholders involved in the conservation and restoration of stream, lake, and wetland ecosystems.
+
+
 
 ## New Developments
 
