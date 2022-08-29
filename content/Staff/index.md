@@ -78,14 +78,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Austin.jpg" className="profilePic" alt="Austin" />
-
-#### Jena Austin
-* Conservation and Restoration Ecology
-* Since 2019
-
---------------
-
 <img src="/images/staff/Choate.jpg" className="profilePic" alt="Choate" />
 
 ####  Casey Choate
@@ -191,15 +183,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Greenelsh.jpg" className="profilePic" alt="Greenelsh" />
-
-#### Grace Greenelsh
-* Wildlife Ecology and Management
-* Minors in Biolgy and Statistics
-* Since 2022
-
---------------
-
 <img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
 
 #### Nakaila Gunderson
@@ -219,14 +202,6 @@ slug: "MeetTheStaff"
 
 #### Anders Ford
 * Conservation and Restoration Ecology
-* Since 2022
-
---------------
-
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Cano" />
-
-#### Raquel Cano
-* Wildlife Ecology and Management
 * Since 2022
 
 --------------
@@ -253,30 +228,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Nickerson" />
-
-#### Arthur Nickerson
-* Since 2022
-
---------------
-
-<img src="/images/staff/Sparks.jpg" className="profilePic" alt="Sparks" />
-
-#### Megan Sparks
-* Biology
-* Minors in Chemistry, Music, Mental Health Advocacy & Aware
-* Since 2022
-
---------------
-
-<img src="/images/staff/Walsh.png" className="profilePic" alt="Walsh" />
-
-#### Maille Walsh
-* Biology
-* Since 2022
-
---------------
-
 <img src="/images/staff/Bramson.jpg" className="profilePic" alt="Bramson" />
 
 #### Annie Bramson
@@ -299,3 +250,52 @@ slug: "MeetTheStaff"
 * Management/Restoration of Aquatic Ecosystems
 * Since 2022
 
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Lane" />
+
+#### Abby Lane
+* Wildlife Ecology and Management
+* Since 2022
+
+--------------
+
+<img src="/images/staff/Alvord.jpg" className="profilePic" alt="Alvord" />
+
+#### Ashley Alvord
+* Conservation and Restoriation Ecology
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="PJ" />
+
+#### Audrey Petersen-Jones
+* Biology
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Farr" />
+
+#### Savannah Farr
+* Biology
+* Since 2022
+
+--------------
+
+<img src="/images/staff/Walker.jpg" className="profilePic" alt="Walker" />
+
+#### Hana Walker
+* Wildlife Ecology and Management
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Blau" />
+
+#### Janie Blau
+* Animal/Dairy/Veterinary Science
+* Since 2022
+
+--------------
