@@ -268,7 +268,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="PJ" />
+<img src="/images/staff/AudreyProfPhoto.jpg" className="profilePic" alt="PJ" />
 
 #### Audrey Petersen-Jones
 * Biology
