@@ -219,7 +219,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Walker.jpg" className="profilePic" alt="Karren" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Karren" />
 
 #### Emma Karren
 * Business Management
@@ -227,7 +227,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Walker.jpg" className="profilePic" alt="Owens" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Owens" />
 
 #### Kirk Owens
 * Forestry Ecology Management
