@@ -187,7 +187,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Lane" />
+<img src="/images/staff/Lane.jpeg" className="profilePic" alt="Lane" />
 
 #### Abby Lane
 * Wildlife Ecology and Management
@@ -229,7 +229,7 @@ slug: "MeetTheStaff"
 
 <img src="/images/staff/Walker.jpg" className="profilePic" alt="Owens" />
 
-#### Kirk Ownes
+#### Kirk Owens
 * Forestry Ecology Management
 * Since 2022
 
