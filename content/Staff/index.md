@@ -118,14 +118,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Vasquez.jpg" className="profilePic" alt="Vasquez" />
-
-#### Carlos Vasquez
-* Geology
-* Volunteer Since 2021
-
---------------
-
 <img src="/images/staff/Jensen.jpg" className="profilePic" alt="Jensen" />
 
 #### Alex Jensen
@@ -150,44 +142,11 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Jefferson.jpg" className="profilePic" alt="Jefferson" />
-
-#### Samuel Jefferson
-* Biology
-* Since 2021
-
---------------
-
 <img src="/images/staff/Harrison.jpg" className="profilePic" alt="Harrison" />
 
 #### Alisa Harrison
 * Plant Science
 * Since 2021
-
---------------
-
-<img src="/images/staff/Harris.jpg" className="profilePic" alt="Harris" />
-
-#### Brooklynn Harris
-* Conservation and Restoration Ecology
-* Minor in Chemistry
-* Since 2021
-
---------------
-
-<img src="/images/staff/Torres.jpeg" className="profilePic" alt="Torres" />
-
-#### Helani Torres 
-* Conservation and Restoration Ecology
-* Since 2021
-
---------------
-
-<img src="/images/staff/Gunderson.jpg" className="profilePic" alt="Gunderson" />
-
-#### Nakaila Gunderson
-* Wildlife Ecology and Management
-* Since 2022
 
 --------------
 
@@ -206,14 +165,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Eborn.jpg" className="profilePic" alt="Eborn" />
-
-#### Abe Eborn
-* Environmental Studies
-* Since 2022
-
---------------
-
 <img src="/images/staff/Briseno.jpg" className="profilePic" alt="Briseno" />
 
 #### Raychel Briseno
@@ -228,26 +179,10 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Bramson.jpg" className="profilePic" alt="Bramson" />
-
-#### Annie Bramson
-* Elementary Education
-* Since 2022
-
---------------
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
 
 #### Kate Anderson
 * Ornamental Horticulture
-* Since 2022
-
---------------
-
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Chaves" />
-
-#### Kevin Chaves
-* Management/Restoration of Aquatic Ecosystems
 * Since 2022
 
 --------------
@@ -284,18 +219,19 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Walker.jpg" className="profilePic" alt="Walker" />
+<img src="/images/staff/Walker.jpg" className="profilePic" alt="Karren" />
 
-#### Hana Walker
-* Wildlife Ecology and Management
+#### Emma Karren
+* Business Management
 * Since 2022
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Blau" />
+<img src="/images/staff/Walker.jpg" className="profilePic" alt="Owens" />
 
-#### Janie Blau
-* Animal/Dairy/Veterinary Science
+#### Kirk Ownes
+* Forestry Ecology Management
 * Since 2022
 
 --------------
+
