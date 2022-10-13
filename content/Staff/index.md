@@ -211,6 +211,14 @@ slug: "MeetTheStaff"
 
 --------------
 
+<img src="/images/staff/missing_profile_picture.jpg" className="profilePic" alt="McKinnon" />
+
+#### Annalise McKinnon
+* Wildlife Ecology and Management
+* Since 2022
+
+--------------
+
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Farr" />
 
 #### Savannah Farr
