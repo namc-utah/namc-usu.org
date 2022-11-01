@@ -94,14 +94,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Johnston.jpg" className="profilePic" alt="Johnston" />
-
-#### Sandra Johnston
-* Management/Restoration of Aquatic Ecosystems
-* Since 2021
-
---------------
-
 <img src="/images/staff/Burt.jpg" className="profilePic" alt="Burt" />
 
 #### Teressa Burt
@@ -211,7 +203,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.jpg" className="profilePic" alt="McKinnon" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McKinnon" />
 
 #### Annalise McKinnon
 * Wildlife Ecology and Management
