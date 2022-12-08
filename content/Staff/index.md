@@ -246,5 +246,13 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Robinette" />
 
 #### Jillian Robinette
-* Business Management
+* Wildlife Ecology and Management
+* Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+
+#### Keelee Storrud
+* Biochemistry
 * Since 2022
