@@ -137,6 +137,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Wesemann" />
 
 #### Eliza Wesemann
+* Wildlife Ecology and Management
 * Since 2022
 
 --------------
@@ -152,6 +153,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/Briseno.jpg" className="profilePic" alt="Briseno" />
 
 #### Raychel Briseno
+* Biology and Anthropology
 * Since 2022
 
 --------------
@@ -159,6 +161,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Yorgason" />
 
 #### Annika Yorgason
+* Enviornmental Studies and Applied Geographic Information Science
 * Since 2022
 
 --------------
