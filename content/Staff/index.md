@@ -78,14 +78,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/Choate.jpg" className="profilePic" alt="Choate" />
-
-####  Casey Choate
-* Management/Restoration of Aquatic Ecosystems
-* Since 2019
-
---------------
-
 <img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
 
 #### Garret Haeck
@@ -238,7 +230,7 @@ slug: "MeetTheStaff"
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="KarrenO" />
 
 #### Olivia Karren
-* Business Management
+* Geography
 * Since 2022
 
 --------------
