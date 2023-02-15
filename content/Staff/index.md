@@ -206,14 +206,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Farr" />
-
-#### Savannah Farr
-* Biology
-* Since 2022
-
---------------
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Karren" />
 
 #### Emma Karren
