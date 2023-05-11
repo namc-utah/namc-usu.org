@@ -158,14 +158,6 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Yorgason" />
-
-#### Annika Yorgason
-* Enviornmental Studies and Applied Geographic Information Science
-* Since 2022
-
---------------
-
 <img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
 
 #### Kate Anderson
@@ -178,14 +170,6 @@ slug: "MeetTheStaff"
 
 #### Abby Lane
 * Wildlife Ecology and Management
-* Since 2022
-
---------------
-
-<img src="/images/staff/Alvord.jpg" className="profilePic" alt="Alvord" />
-
-#### Ashley Alvord
-* Conservation and Restoriation Ecology
 * Since 2022
 
 --------------
@@ -243,3 +227,19 @@ slug: "MeetTheStaff"
 #### Keelee Storrud
 * Biochemistry
 * Since 2022
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+
+#### Dylan Tagg
+* Undeclared
+* Since 2023
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+
+#### Katie Lam
+* Accounting
+* Since 2023
