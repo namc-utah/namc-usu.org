@@ -182,7 +182,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="McKinnon" />
+<img src="/images/staff/Annalise.jpg" className="profilePic" alt="McKinnon" />
 
 #### Annalise McKinnon
 * Wildlife Ecology and Management
