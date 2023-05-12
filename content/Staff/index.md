@@ -214,7 +214,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Robinette" />
+<img src="/images/staff/Robinette.jpg" className="profilePic" alt="Robinette" />
 
 #### Jillian Robinette
 * Wildlife Ecology and Management
@@ -230,7 +230,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+<img src="/images/dyltagg.jpg" className="profilePic" alt="Storrud" />
 
 #### Dylan Tagg
 * Undeclared
