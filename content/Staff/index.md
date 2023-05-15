@@ -222,7 +222,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+<img src="/images/staff/Keelee.jpg" className="profilePic" alt="Storrud" />
 
 #### Keelee Storrud
 * Biochemistry
