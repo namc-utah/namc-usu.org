@@ -206,7 +206,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="KarrenO" />
+<img src="/images/staff/OKarren.jpg" className="profilePic" alt="KarrenO" />
 
 #### Olivia Karren
 * Geography
@@ -227,14 +227,6 @@ slug: "MeetTheStaff"
 #### Keelee Storrud
 * Biochemistry
 * Since 2022
-
---------------
-
-<img src="/images/dyltagg.jpg" className="profilePic" alt="DTagg" />
-
-#### Dylan Tagg
-* Undeclared
-* Since 2023
 
 --------------
 
