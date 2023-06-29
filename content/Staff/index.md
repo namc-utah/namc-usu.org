@@ -230,8 +230,40 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Storrud" />
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Lam" />
 
 #### Katie Lam
 * Accounting
+* Since 2023
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Sanders" />
+
+#### Chloe Sanders
+* Undeclared
+* Since 2023
+  
+ --------------
+
+<img src="/images/staff/Tweedy.jpg" className="profilePic" alt="Tweedy" />
+
+####  Beth Tweedy
+* Undeclared
+* Since 2023
+
+--------------
+
+<img src="/images/staff/Alfaro.jpg" className="profilePic" alt="Alfaro" />
+
+#### Thalia Alfaro
+* Wildlife Ecology and Management
+* Since 2023
+
+--------------
+
+<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Fluhrer" />
+
+#### Izzy Fluhrer
+* Undeclared
 * Since 2023
