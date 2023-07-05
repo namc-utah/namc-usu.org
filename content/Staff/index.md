@@ -262,7 +262,7 @@ slug: "MeetTheStaff"
 
 --------------
 
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Fluhrer" />
+<img src="/images/staff/Fluhrer.jpg" className="profilePic" alt="Fluhrer" />
 
 #### Izzy Fluhrer
 * Undeclared
