@@ -21,7 +21,7 @@ Phone: 510-334-9769
 
 Name: Trip Armstrong
 
-Email: buglab@usu.edu
+Email: trip.armstrong@usu.edu
 
 Phone: 760-709-1210
 
