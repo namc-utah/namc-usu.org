@@ -70,14 +70,6 @@ slug: "MeetTheStaff"
 
 ## Technicians
 
-<img src="/images/staff/Elliot.jpg" className="profilePic" alt="Elliot" />
-
-#### Kristiana Elliot
-* ADVS Pre-Vet
-* Since 2019
-
---------------
-
 <img src="/images/staff/Haeck.jpg" className="profilePic" alt="Haeck" />
 
 #### Garret Haeck
@@ -154,14 +146,6 @@ slug: "MeetTheStaff"
 
 #### Raychel Briseno
 * Biology and Anthropology
-* Since 2022
-
---------------
-
-<img src="/images/staff/missing_profile_picture.png" className="profilePic" alt="Anderson" />
-
-#### Kate Anderson
-* Ornamental Horticulture
 * Since 2022
 
 --------------
