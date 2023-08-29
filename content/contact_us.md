@@ -16,6 +16,7 @@ Utah State University
 Logan, UT 84322-5210
 
 Phone: 510-334-9769
+
 Email: Andrew.Caudillo@usu.edu
 
 ## Sample Submission and Reporting
