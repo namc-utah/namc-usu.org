@@ -9,13 +9,7 @@ slug: "MeetTheStaff"
 
 #### Charles Hawkins
 
-## Assistant Director
 
-<img src="/images/staff/trip_armstrong.jpeg" className="profilePic" alt="Trip" />
-
-#### Trip Armstrong
-
-* Since 2016
 
 --------------
 
