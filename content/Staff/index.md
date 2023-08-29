@@ -9,8 +9,6 @@ slug: "MeetTheStaff"
 
 #### Charles Hawkins
 
-
-
 --------------
 
 ## Researchers
@@ -23,6 +21,18 @@ slug: "MeetTheStaff"
 * MS Biology (Stream Ecology)
 * James Madison University
 * Since 2013
+
+--------------
+
+<img src="/images/staff/daniel_nelson.jpeg" className="profilePic" alt="Daniel Nelson" />
+
+#### Daniel Nelson
+
+* Taxonomist
+* Research Taxonomist
+* PhD Biological Sciences
+* University of Alabama
+* Since 2020
 
 --------------
 
@@ -48,17 +58,6 @@ slug: "MeetTheStaff"
 * California State University Monterey Bay
 * Since 2020
 
---------------
-
-<img src="/images/staff/daniel_nelson.jpeg" className="profilePic" alt="Daniel Nelson" />
-
-#### Daniel Nelson
-
-* Taxonomist
-* Research Taxonomist
-* PhD Biological Sciences
-* University of Alabama
-* Since 2020
 
 --------------
 
