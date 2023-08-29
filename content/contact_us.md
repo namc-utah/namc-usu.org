@@ -26,6 +26,7 @@ Email: Andrew.Caudillo@usu.edu
 
 ## Data Interpretation and Analytical Support
 Name: Jennifer Courtwright
+
 Email: Jennifer.Courtwright@usu.edu
 
 ## Map
