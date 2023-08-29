@@ -3,7 +3,7 @@ title: Contact Us
 slug: "ContactUs"
 ---
 
-## BugLab Contact Information
+## NAMC Shipping Address
 
 National Aquatic Monitoring Center
 
@@ -16,14 +16,17 @@ Utah State University
 Logan, UT 84322-5210
 
 Phone: 510-334-9769
+Email: Andrew.Caudillo@usu.edu
 
-## Assistant Director Contact Information
+## Sample Submission and Reporting
 
-Name: Trip Armstrong
+Name: Andrew Caudillo
 
-Email: trip.armstrong@usu.edu
+Email: Andrew.Caudillo@usu.edu
 
-Phone: 760-709-1210
+## Data Interpretation and Analytical Support
+Name: Jennifer Courtwright
+Email: Jennifer.Courtwright@usu.edu
 
 ## Map
 
