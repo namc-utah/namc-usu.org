@@ -4,8 +4,8 @@ slug: "Quotes"
 
 ---
 
-For quotes regarding macroinvertebrate sample processing, O/E computation or other services please contact Trip Armstrong:
+For quotes regarding macroinvertebrate sample processing, O/E computation or other services please contact Andrew Caudillo:
 
-trip.armstrong@usu.edu
+Andrew.Caudillo@usu.edu
 
-(760) 709-1210
+(510) 334-9769
