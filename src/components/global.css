@@ -20,8 +20,3 @@ body {
   color: #333;
 }
 
-a, a:visited, .link {
-  color: #1976d2; /* match MUI buttons */
-  text-decoration: underline;
-  cursor: pointer;
-}

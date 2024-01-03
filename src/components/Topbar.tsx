@@ -1,11 +1,7 @@
-import React, { useState } from 'react'
-import AppBar from '@mui/material/AppBar'
-import Toolbar from '@mui/material/Toolbar'
+import React from 'react'
 import Typography from '@mui/material/Typography'
-import Menu from '@mui/material/Menu'
 import Button from '@mui/material/Button'
 import { navigate } from 'gatsby'
-import MenuItem from '@mui/material/MenuItem'
 import { styled } from '@mui/material/styles'
 import { MenuItem as MenuItemType } from '../types'
 import MenuJSON from '../../menus.json'
@@ -37,10 +33,10 @@ const Topbar: React.FC<TopbarProps> = ({ children }: TopbarProps) => {
             style={{ maxWidth: '100px', margin: 15, maxHeight: 100 }}
           />
           <Stack direction="row" spacing={2} sx={{ width: '100%', mb: 2, justifyContent: 'flex-end' }}>
-            <Button href="https://qcnr.usu.edu/research/namc/" variant="contained" sx={{color: 'white'}} component="div">
+            <Button href="https://qcnr.usu.edu/research/namc/" variant="contained" sx={{color: 'white'}}>
               NAMC Website
             </Button>
-            <Button href="https://instar.namc-usu.org/" variant="contained" sx={{color: 'white'}} component="div">
+            <Button href="https://instar.namc-usu.org/" variant="contained" sx={{color: 'white'}}>
               INSTAR
             </Button>
           </Stack>
