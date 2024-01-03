@@ -16,8 +16,8 @@ const Copyright: React.FC = () => {
     )
 }
 
-export interface FooterProps {
-    children?: React.ReactChild | React.ReactChildren
+export interface FooterProps extends React.PropsWithChildren {
+    // children?: React.ReactChild | React.ReactChildren
 }
 
 const Footer: React.FC<FooterProps> = ({ children }: FooterProps) => {

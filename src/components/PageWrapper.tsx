@@ -7,9 +7,8 @@ import { outerTheme } from '../theme'
 import Topbar from './Topbar'
 import './global.css'
 
-export interface PageWrapperProps {
-    children: React.ReactChild | React.ReactChildren
-    fullHeight: boolean
+export interface PageWrapperProps extends React.PropsWithChildren {
+    fullHeight?: boolean
 }
 
 const fullStyle: React.CSSProperties = {

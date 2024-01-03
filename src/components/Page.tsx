@@ -3,9 +3,8 @@ import Container from '@mui/material/Container'
 import Typography from '@mui/material/Typography'
 import PageWrapper from './PageWrapper'
 
-export interface HomeProps {
+export interface HomeProps extends React.PropsWithChildren {
     title: string
-    children: React.ReactChild | React.ReactChildren
 }
 
 const Home: React.FC<HomeProps> = ({ title, children }: HomeProps) => {
